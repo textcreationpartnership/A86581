@@ -1,0 +1,2720 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Zion's birth-register unfolded in a sermon to the native-citizens of London. In their solemn assembly at Pauls on Thursday the VIII. of May, A.D. M.DC.LVI. / By Thomas Horton D.D.</title>
+            <author>Horton, Thomas, d. 1673.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 158 KB of XML-encoded text transcribed from 38 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86581</idno>
+            <idno type="STC">Wing H2885</idno>
+            <idno type="STC">Thomason E490_6</idno>
+            <idno type="STC">ESTC R202559</idno>
+            <idno type="EEBO-CITATION">99862795</idno>
+            <idno type="PROQUEST">99862795</idno>
+            <idno type="VID">114971</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86581)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114971)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 78:E490[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Zion's birth-register unfolded in a sermon to the native-citizens of London. In their solemn assembly at Pauls on Thursday the VIII. of May, A.D. M.DC.LVI. / By Thomas Horton D.D.</title>
+                  <author>Horton, Thomas, d. 1673.</author>
+               </titleStmt>
+               <extent>[4], 69, [3] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Clark, and are to be sold at the entrance into Mercers-Chappel, at the lower end of Cheapside,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>M.DC.LVI. [1656]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July 1st".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114971:1" rendition="simple:additions"/>
+            <p>Zion's Birth-Regiſter UNFOLDED IN A SERMON TO THE
+NATIVE-CITIZENS OF LONDON.</p>
+            <p>In their Solemn Aſſembly at <hi>PA<g ref="char:V">Ʋ</g>LS</hi> on Thurſday the
+VIII. of <hi>May, A.D.</hi> M.DC.LVI.</p>
+            <p>By <hi>THOMAS HORTON</hi> D.D.</p>
+            <q>
+               <bibl>PSAL. 22.9,10.</bibl> 
+               <p>But <hi>Thou</hi> art <hi>He</hi> that took me out of the
+<hi>womb;</hi> thou madeſt me to <hi>hope,</hi> when I was upon my
+<hi>Mothers breaſts.</hi>
+               </p> 
+               <p>I was caſt upon <hi>Thee</hi> from the womb; <hi>Thou</hi> art
+<hi>my God</hi> from my <hi>Mothers belly.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>ACT. 18.9,10.</bibl> 
+               <p>Then ſpake the <hi>Lord</hi> to <hi>Paul; I have much people in
+this City.</hi>
+               </p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Clark,</hi> and are to be
+ſold at the Entrance into <hi>Mercers-Chappel,</hi> at the lower end of
+<hi>Cheapſide,</hi> M.DC.LVI.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:114971:2"/>
+            <pb facs="tcp:114971:2"/>
+            <head>To all the SONS of <hi>ZION;</hi> eſpecially which were Born
+within the Liberties of the City of <hi>LONDON;</hi> and of late more
+ſolemnly Aſſembled for the acknowledgment of that Providence to
+them.</head>
+            <opener>
+               <salute>Much honoured and beloved in Chriſt,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Know not to whom the inſcription of this <hi>Sermon</hi>
+could more juſtly belong, then indeed to <hi>your ſelves,</hi> who are the
+proper <hi>ſubjects</hi> of it, <hi>movers</hi> for it, and <hi>Auditors</hi>
+to whom it was delivered. To <hi>You</hi> there<g ref="char:EOLhyphen"/>fore I tender it (not without
+your own invitation) yet not limited to any <hi>particulars,</hi> but rather in
+<hi>common</hi> and at large; that ſo whileſt that <hi>All</hi> have an
+equal interest in the <hi>occa<g ref="char:EOLhyphen"/>ſion,</hi> they might equally ſhare in the
+<hi>remembrances</hi> and publica<g ref="char:EOLhyphen"/>tions of it.</p>
+            <p>The ſcope of this Diſcourſe before you is to improve the
+<hi>preſent opportunity</hi> to the best <hi>ſpiritual advantage;</hi>
+which is (or <hi>ſhould</hi> be) the end of all ſuch ſolemn
+Aſſemblies and performances as theſe are; Gods <hi>Ordinances</hi> being
+too <hi>good,</hi> and inſtituted to better purpoſe then meerly to ſerve
+mens <hi>Fancies,</hi> and <hi>Formalities,</hi> and <hi>Complemental
+devices,</hi> which yet the generality of the world for the moſt part makes
+them to do.</p>
+            <p>I know not how it comes to paſſe, but your late
+<hi>meeting</hi> hath not obtain'd that <hi>effect,</hi> which I know you
+<hi>deſired</hi> and <hi>deſign'd</hi> in the firſt appointment of it;
+from whence you will finde ſome <hi>paſſa<g ref="char:EOLhyphen"/>ges</hi> in the cloſe of the
+Sermon to be a great deal truer in the <hi>event</hi> then I <hi>wiſt</hi>
+they would be when I <hi>utter'd</hi> them. And yet I cannot very well tell
+where to lay the <hi>blame.</hi> I am apt to perſwade <hi>my ſelf</hi> (and
+would have the <hi>World</hi> ſo perſwaded too) that it proceeded 
+<pb facs="tcp:114971:3"/>not from want of <hi>Affection,</hi> but rather of
+<hi>Contrivance.</hi> This is moſt certain and undeniable, That there were
+<hi>divers perſons</hi> at that time amongſt you which came together with
+<hi>large intentions,</hi> and <hi>ſome</hi> with great <hi>preparations</hi>
+to very noble and honorable atchievements; only they had not a <hi>channel</hi>
+ſo readily cut out unto them wherein their <hi>Charity</hi> might ſtream it
+ſelf. You wanted not <hi>liquor,</hi> but <hi>vent;</hi> not <hi>matter,</hi>
+but <hi>method;</hi> not <hi>concep<g ref="char:EOLhyphen"/>tion,</hi> but <hi>obſtetrication.</hi>
+               <hi>The children were come to the birth, but there was not ſtrength to bring
+forth.</hi>
+               <note place="margin">Iſa. 37.3.</note>
+            </p>
+            <p>It will therefore very neerly concern you, both in point of
+<hi>con<g ref="char:EOLhyphen"/>ſcience</hi> and <hi>honour,</hi> to reſume the work again, and to
+find out ſome way or other for the more <hi>ſucceſſefull
+accompliſhment</hi> of it; which you had better never undertaken, then not
+bring to ſome perfection. Think not to <hi>ſmoother</hi> it in ſilence,
+and that <hi>time</hi> will wear it out, for that it <hi>will not.</hi> God
+knowes your thoughts a far off. And your <hi>Reſolutions</hi> with him are
+<hi>Subſcriptions,</hi> as your <hi>Subſcriptions</hi> due <hi>Debts.</hi>
+Remember <hi>Ananias</hi> and <hi>Sapphira</hi> who <hi>kept back part of the
+price,</hi>
+               <note place="margin">Act. 5.2.</note> what was <hi>ſaid,</hi> and
+what was <hi>done</hi> to them. And conſider what <hi>Solomon</hi> ſayes of
+thoſe that <hi>boaſt themſelves of a falſe gift; that they are like
+clouds and wind without rain.</hi>
+               <note place="margin">Prov. 25.14.</note> But I
+will not ſo far <hi>ſuſpect</hi> you, as to preſſe too hard upon you
+in a buſineſſe whereunto I ſuppoſe you are of your ſelves ſo
+readily inclined. The Lord make us all faithfull and ſerious in our dealings
+with him. You will ſo much the more affectionately reſent this
+ſeaſonable ſuggeſtion, as it proceeds from the hearty deſires
+(ſeconded with prayers) of</p>
+            <closer>
+               <signed>Your Countryman and fellow-ſervant in the
+advancement of the common good. <hi>Thomas Horton.</hi>
+               </signed> 
+               <dateline>From
+my Study in <hi>Greſham-Colledge</hi> 
+                  <date>Jun. 3. 1656.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:114971:3"/>
+            <head>A SERMON PREACHED TO The Native-Citizens of LONDON, The VIII.
+of <hi>May,</hi> M.DC.LVI.</head>
+            <epigraph>
+               <q>
+                  <bibl>PSAL. LXXXVII. Verſ. 4, 5, 6.</bibl> 
+                  <p>—THIS MAN WAS BORN THERE.</p> 
+                  <p>And of Zion it ſhall be ſaid, <hi>This</hi> and
+<hi>that</hi> man was born in her; And the HIGHEST HIMSELF ſhall
+eſtabliſh her.</p> 
+                  <p>The Lord ſhall count when he writes up the people, That
+<hi>this man was born there.</hi> Selah.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>Here is ſo <hi>much excellency</hi> conſiderable <hi>in our
+Being</hi> and the <hi>communications of humane ſubſiſtence,</hi> as
+<hi>that every thing</hi> is ſo far <hi>eſtima<g ref="char:EOLhyphen"/>ble</hi> and
+<hi>accountable</hi> with us, as it bears the greateſt <hi>ſhare and
+part</hi> in it, and <hi>proportion and affinity</hi> 
+               <pb n="2" facs="tcp:114971:4"/>to it.
+Therefore it is that we give ſo much reſpect to <hi>old age,</hi> becauſe
+it is <hi>life and being</hi> both in the <hi>firſt and ſooneſt</hi>
+beginnings of it; as alſo in the <hi>longeſt conti<g ref="char:EOLhyphen"/>nuance.</hi> And
+accordingly as we eſteem of <hi>Being,</hi> ſo in like meaſure we
+eſteem of <hi>Birth,</hi> which is as it were the firſt <hi>conveyance and
+irradiation and peeping</hi> out of this our <hi>being</hi> unto us. And again,
+as we eſteem of <hi>that</hi> ſim<g ref="char:EOLhyphen"/>ply conſidered, ſo we eſteem of it
+likewiſe in the <hi>circum<g ref="char:EOLhyphen"/>ſtances</hi> and appendances of it. Becauſe it
+is ſo <hi>noble and excellent</hi> a thing to be <hi>born;</hi> therefore we
+eſteem of the <hi>Time,</hi> and count it the greater excellency as we are
+born <hi>Then.</hi> And again, becauſe it is ſo <hi>noble and
+excellent</hi> a thing to be <hi>Born;</hi> therefore we eſteem of the
+<hi>Place,</hi> and count it <hi>the greater excellency</hi> as we are born
+<hi>There.</hi> And this is <hi>that,</hi> which to the <hi>glory of God and
+our own greater rejoycing, WE,</hi> who have ſometime been born and brought
+<hi>forth in this famous City of London,</hi> are met together to acknow<g ref="char:EOLhyphen"/>ledge
+<hi>this day; That we were born here;</hi> as ſuch a <hi>paſſage and
+piece of providence,</hi> which is not to be eaſily neglected or paſt over
+by us; and for which pur<g ref="char:EOLhyphen"/>poſe I have made <hi>choice of this Scripture</hi>
+now be<g ref="char:EOLhyphen"/>fore us.</p>
+            <p>In the reading whereof unto you, you may perhaps aske the
+Queſtion which the <hi>Eunuch</hi> of <hi>Ethiopia</hi> ſome<g ref="char:EOLhyphen"/>times put to
+<hi>Philip</hi> the <hi>Deacon</hi> (upon the like occaſi<g ref="char:EOLhyphen"/>on, namely,
+concerning ones <hi>birth</hi> and <hi>generation</hi>) Act. 8.34. <hi>I pray
+thee of whom ſpeaketh the Prophet this? OF HIMSELF, or of ſome OTHER
+MAN?</hi> The <hi>Reaſon</hi> of it is this, Becauſe it is delivered to us
+in ſuch <hi>uncertain</hi> and <hi>ambiguous</hi> Expreſſions. Here's
+every thing almoſt <hi>indefinite</hi> and <hi>undetermin'd.</hi> Here's
+<hi>this,</hi> and <hi>that,</hi> and <hi>there;</hi> but <hi>who,</hi> and
+<hi>what,</hi> and <pb n="3" facs="tcp:114971:4"/>
+               <hi>where,</hi> it is hardly ſignified.
+Therefore it is that <hi>Interpreters</hi> are at ſo much <hi>ſtrife with
+themſelves</hi> a<g ref="char:EOLhyphen"/>bout it, which I will not now trouble you withall, leſt
+thereby I ſhould prevent my ſelf of that which is more <hi>material.</hi> I
+take it <hi>at large and in the generall</hi> as a <hi>full and ample
+deſcription</hi> to us of the <hi>priviledges and preheminences of the
+Church,</hi> with the <hi>members</hi> of it, <hi>in a mutuall</hi> reference
+to each other.</p>
+            <p>
+               <note place="margin">The Diviſion.</note>And ſo in the Text it
+ſelf, there are <hi>two generall parts</hi> conſiderable.</p>
+            <list>
+               <item>Firſt, The <hi>Priviledge</hi> mentioned.</item>
+               <item> Secondly, The <hi>celebration</hi> of this
+Priviledge.</item>
+            </list>
+            <p>The <hi>Priviledge</hi> mentioned, that ye have in thoſe words,
+<hi>This man was born there.</hi>
+            </p>
+            <p>The <hi>celebration</hi> of this priviledge, that is two<g ref="char:EOLhyphen"/>fold.</p>
+            <list>
+               <item>1. <hi>On Mans</hi> part by way of <hi>Report</hi> in the 5.
+<hi>verſ. And of Zion it ſhall be ſaid.</hi>
+               </item>
+               <item>2. <hi>On Gods</hi> part by way of <hi>Record</hi> in the 6.
+<hi>The Lord ſhall count when he writes up the people that,</hi>
+&amp;c.</item>
+            </list>
+            <p>We begin with the Firſt, <hi>viz. The Priviledge it ſelf,</hi>
+which is here preſented to us with all the <hi>advan<g ref="char:EOLhyphen"/>tage</hi> that may
+be.</p>
+            <p>Firſt, In <hi>its threefold Repetition</hi> in one verſe after
+another. <hi>Repetitions</hi> in Scripture are for the moſt part <hi>very
+ſignificant,</hi> and do import ſome very <hi>great matter</hi> in the
+things themſelves which they are apply<g ref="char:EOLhyphen"/>ed unto. And ſo as to <hi>this
+particular paſſage</hi> amongſt the reſt; it is not <hi>vainly</hi> or
+without very good cauſe <hi>thrice repeated</hi> here in the Text. <hi>This
+man was born there. This man was born there. This man was born there.</hi> In
+the 4. <hi>verſ.</hi> In the 5. And in the 6.</p>
+            <p>
+               <pb n="4" facs="tcp:114971:5"/>Secondly, In <hi>the word of Attention</hi>
+which is annext unto it, <hi>Selah.</hi> Which if according <hi>to ſome</hi>
+it be a <hi>meer Muſicall note</hi> to provoke an <hi>elevation of the
+voice;</hi> yet according to others more probably is a note of ſpeciall
+<hi>Animadverſion</hi> to intimate the <hi>excellency</hi> of the
+<hi>mat<g ref="char:EOLhyphen"/>ter;</hi> and the one grounded upon the other, the more excellent
+matter, requiring a more excellent note to be put upon it.</p>
+            <p>To which I may add a third according to ſome readings of the
+Text; and that is the <hi>Particle of ex<g ref="char:EOLhyphen"/>citement</hi> prefixed unto it,
+<hi>Behold. Loe,</hi> there was he born.</p>
+            <p>
+               <note place="margin">A double Emphaſis</note>The <hi>paſſage
+it-ſelf</hi> according to a different <hi>Accent</hi> or <hi>Emphaſis</hi>
+which may be laid upon the words, hath a different <hi>notion</hi> with it. 
+<note place="margin">upon 
+<list>
+                     <item>
+                        <hi>There.</hi>
+                     </item>
+                     <item>
+                        <hi>This.</hi>
+                     </item>
+                  </list>
+               </note>For it may be laid either upon <hi>There,</hi> or
+upon <hi>This.</hi> If ye lay the force upon <hi>There,</hi> then it is an
+advancement of the <hi>perſon</hi> taken from the <hi>place, This man</hi>
+was born <hi>THERE.</hi> If ye lay the force upon <hi>This,</hi> then it is an
+advancement of the <hi>place</hi> taken from the <hi>perſon, THIS MAN</hi>
+was born <hi>there.</hi> We may take it (if we pleaſe) according to either of
+theſe Notions, and we ſhall conſider it at this time in both, as which
+will beſt agree with our pur<g ref="char:EOLhyphen"/>poſe, and ſute to the preſent occaſion
+which we have now in hand.</p>
+            <p n="1">
+               <note place="margin">1. Upon <hi>There.</hi>
+               </note>And
+firſt, In the former, <hi>viz.</hi> The advancement of the <hi>perſon</hi>
+taken from the <hi>place.</hi> This man was born <hi>there.</hi> There! Where
+was <hi>that?</hi> I told you be<g ref="char:EOLhyphen"/>fore that it was delivered a little
+<hi>obſcurely.</hi> But we muſt reſolve it by conſulting with the
+Context, both in the words preceding and following, and that will ſhew it
+plainly to be <hi>Zion</hi> all along. It is here decla<g ref="char:EOLhyphen"/>red as a very great
+priviledge for <hi>this man,</hi> who ever <pb n="5" facs="tcp:114971:5"/>he be, to be born
+<hi>there.</hi> Now that it may really ap<g ref="char:EOLhyphen"/>pear to be ſo indeed, it is
+requiſite for us to enquire, what this <hi>Zion</hi> was, where <hi>this
+man</hi> was born? The Scripture exhibits it to us under a double
+Repreſenta<g ref="char:EOLhyphen"/>tion: 
+<note place="margin">
+                  <hi>Zion</hi> twofold.</note>Either as the City
+of <hi>David,</hi> or as the City of <hi>God.</hi> If we take it as the City of
+<hi>David, ſo</hi> to be born in it does denote a <hi>temporal</hi>
+priviledge. If as the City of <hi>God,</hi> a <hi>ſpiritual.</hi>
+            </p>
+            <p n="1">
+               <note place="margin">1. The City of
+<hi>David.</hi>
+               </note>Firſt, Take it as the City of <hi>David.</hi> We
+ſhall find <hi>Zion</hi> thus to be called, 1 King. 8.1. <hi>The City of
+David which is Zion.</hi> And ſo it is by a Synecdoche put for
+<hi>Jeruſalem,</hi> which was the <hi>Metropolis</hi> or Mo<g ref="char:EOLhyphen"/>ther-City of the
+Kingdom. The ſame is <hi>LONDON</hi> to us; not only
+<gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>a City of Habitation,</hi> i.
+e. <hi>a populous City,</hi> Pſal. 107.7. But alſo
+<gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>The City of our
+Solemnities,</hi> i. e. <hi>a ſtately and magni<g ref="char:EOLhyphen"/>ficent City,</hi> Iſa.
+30.20. And to be <hi>born</hi> in it, as <hi>ſo</hi> conſidered, it was not
+without its <hi>honor</hi> and <hi>dignity</hi> as belonging unto it: No more
+but <hi>that.</hi> There is a <hi>Civil reſpect</hi> which does adhere to men
+in regard of <hi>their births,</hi> which are not meerly <hi>caſual,</hi> but
+have a ſpecial hand of <hi>providence</hi> which is operative in them. As to
+their <hi>Parents,</hi> ſo to the <hi>places of their Nativity;</hi> and as
+that they are born <hi>thus,</hi> ſo that they are borne <hi>there.
+There</hi> in oppoſition to a meaner place and more obſcure. That it is
+<hi>there</hi> and not <hi>there,</hi> there is ſome<g ref="char:EOLhyphen"/>what which is
+conſiderable in it; and accordingly hath been ſo eſteemed of by
+intelligent men. It was ſuch as the <hi>Apoſtle</hi> himſelf made very
+much of as he had occaſion for it, Act. 21.39. <hi>But Paul</hi> ſaid,
+<hi>I am a man which am a Jew, of Tarſus a City in Cilicia; A citizen of no
+mean City,</hi> 
+               <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, And Act. 22,28.
+He mentions it as <hi>a ſpeciall priviledge</hi> 
+               <pb n="6" facs="tcp:114971:6"/>wherein he
+excelled the Chief-Captain in his <hi>Roman freedom;</hi> that whereas the
+other got it by <hi>purchaſe,</hi> With a <hi>great ſum obtained I this
+freedom;</hi> he had it by <hi>birth,</hi> But <hi>I was free born;</hi> namely
+in <hi>Tarſus</hi> which was a <hi>Colonie to Rome,</hi> and ſo according
+to cuſtome had that priviledge annexed unto it, as pertained to thoſe
+Cities. This (I ſay) ſimply conſidered, hath its advantages in it.</p>
+            <p>Therefore let us learn <hi>to bleſſe God</hi> for ſuch
+providences as theſe are, where we partake of them; which though they are but
+<hi>of ordinary and inferiour conſideration,</hi> yet are ſuch as deſerve
+to be <hi>obſerved and taken notice of</hi> by us. It is true, they are
+nothing <hi>to ſpeak of,</hi> as we ſhall hear more afterwards, if we lay
+them <hi>with better things;</hi> but yet in <hi>themſelves</hi> they are
+<hi>ſomewhat worth.</hi> They are nothing <hi>comparatively,</hi> but they
+are ſomewhat <hi>abſolute<g ref="char:EOLhyphen"/>ly.</hi> They are <hi>nothing</hi> as to matter
+of <hi>Pride;</hi> but they are <hi>ſomewhat</hi> as to matter of
+<hi>Thankfulneſs</hi> and due acknow<g ref="char:EOLhyphen"/>ledgement; as many other things
+beſides of the ſame nature with them, Riches, and Honors, and Parentage,
+and Dignity, and Authority, and the like; they are <hi>poor matters</hi> for
+any one to ſet his heart upon them, or to be puft or lifted up with them; but
+yet they are ſuch as a <hi>gracious heart</hi> will be <hi>thankfull
+for,</hi> and learn to underſtand Gods dealings in his diſpenſing of them
+to him. <hi>Proud and envious ſpirits</hi> where they ſee any others to
+<hi>excell</hi> in any thing above themſelves, they are apt there to
+<hi>throw ſome contempt and diſparagement upon it,</hi> and upon thoſe
+which are partakers of it; but yet for all that it's never the worſe for the
+parties them<g ref="char:EOLhyphen"/>ſelves; who notwithſtanding all ſuch carriages are
+themſelves to be affected with them, yea and to bleſſe and praiſe God
+for them. If God <hi>caſts</hi> outward pri<g ref="char:EOLhyphen"/>viledges <pb n="7" facs="tcp:114971:6"/>upon
+us we, are not to deſpiſe them, but to enjoy them with <hi>humility</hi>
+and <hi>fruitfulneſſe,</hi> though they are not the things which we are to
+value or mea<g ref="char:EOLhyphen"/>ſure our ſelves by. The Apoſtle <hi>Paul</hi> was a man of
+as <hi>great and many external accommodations</hi> as any man elſe beſides,
+(<hi>If any have confidence in the fleſh, I more,</hi> Phil. 3.4.) but he
+knew both when to <hi>ſtand upon</hi> them, and when to <hi>neglect</hi>
+them. And ſo ſhould <hi>we</hi> do <hi>with him.</hi> When any of theſe
+things came once in competition with the <hi>Goſpel of Chriſt,</hi> then he
+ſcornes them and throws them away. <hi>What things were gain unto me, thoſe
+I counted loſſe for Chriſt, yea doubtleſs and I count all things to be
+but loſs,</hi> &amp;c. But when others <hi>deſpiſed</hi> him for
+<hi>want</hi> of them, or did not ſuffi<g ref="char:EOLhyphen"/>ciently prize him <hi>in</hi> them,
+then he <hi>reſumes</hi> them and takes them up again with greater authority;
+<hi>Then,</hi> whereſoever any is <hi>bold,</hi> I ſpeak fooliſhly, I am
+<hi>bold</hi> alſo. Are they <hi>Hebrews?</hi> ſo am <hi>I.</hi> Are they
+<hi>Iſraelites?</hi> ſo am <hi>I.</hi> Are they the <hi>ſeed of
+Abraham?</hi> ſo am <hi>I;</hi> and ſo he goes on. To teach us that theſe
+were ſuch things which in their due rank and place might be mentioned with
+ſome kind of acknowledg<g ref="char:EOLhyphen"/>ment; and ſo they may. But ſo much may be
+ſpoken of <hi>Zion</hi> according to its <hi>firſt repreſentation,</hi>
+as it is taken for the City of <hi>David;</hi> and ſo to be born
+<hi>there,</hi> as denoting a <hi>temporal priviledge,</hi> which is not
+altogether to be neglected by us.</p>
+            <p n="2">
+               <note place="margin">2. The City of <hi>God.</hi>
+               </note>The
+ſecond is for the City of <hi>God.</hi> So it is ſome<g ref="char:EOLhyphen"/>times taken and
+called in ſundry places of Scripture. Thus Pſal. 48.1. The City <hi>of our
+God;</hi> The moun<g ref="char:EOLhyphen"/>tain of Holineſſe: he ſpeaks it of <hi>Zion,</hi> as
+the next <hi>verſ.</hi> expreſſes it. And ſo <hi>verſ.</hi> 8. The
+City <hi>of the Lord of Hoſts,</hi> the City <hi>of our God.</hi> And ſo in
+<pb n="8" facs="tcp:114971:7"/>the third <hi>verſ.</hi> of this very Pſalm which we have
+now in hand; Glorious things are ſpoken of thee, <hi>O thou City of God.</hi>
+Having ſpoken in the <hi>verſ.</hi> before of the <hi>Gates of Zion.</hi>
+Thus now it ſignifies the <hi>Church,</hi> and ſo to born in it a
+<hi>ſpirituall</hi> priviledge. But then again even <hi>thus</hi>
+conſidered it has a <hi>double notion</hi> in it. 
+<note place="margin">
+                  <hi>Zion</hi> 
+                  <list>
+                     <item>Local.</item>
+                     <item>Myſti<g ref="char:EOLhyphen"/>cal.</item>
+                  </list>
+               </note>For it may be taken either <hi>locally</hi> or
+<hi>myſtically.</hi> If we take it <hi>locally; ſo</hi> to be born in
+<hi>Zion</hi> is to be born in ſuch a <hi>place</hi> where the <hi>Church and
+people of God</hi> does reſide. To be born in ſome <hi>viſible
+Church.</hi> If we take it <hi>myſtically,</hi> ſo to be born in
+<hi>Zion</hi> is to be regenerate and born again. To be a member of the Church
+which is <hi>inviſible.</hi> Either of theſe is a very great priviledge,
+but eſpecially the <hi>latter</hi> of them. And the <hi>former</hi> in
+<hi>reference</hi> to the <hi>latter;</hi> with which <hi>former</hi> we will
+now begin.</p>
+            <p n="1">
+               <note place="margin">1. Local.</note>Firſt, Take <hi>Zion
+locally,</hi> for the place of the <hi>Churches reſidence,</hi> the
+<hi>viſible Church.</hi> This man was born <hi>there.</hi> It is intimated as
+a priviledge <hi>this</hi> to that man whoſoever he be; and ſo it is. It is
+a great mercy to be caſt upon ſuch <hi>places and times,</hi> and to be
+brought forth in ſuch <hi>Nations and Countries</hi> wherein the
+<hi>Ordi<g ref="char:EOLhyphen"/>nances and means of grace</hi> are diſpenſt. This is to be born
+under a right Planet and Conſtellation indeed, as none elſe beſides.</p>
+            <p>And that eſpecially from <hi>Gods preſence,</hi> which is here
+eſpecially manifeſted, and who takes <hi>ſpecial de<g ref="char:EOLhyphen"/>light</hi> therein.
+The Lord <hi>loves the gates of Zion</hi> more then all the dwellings of
+<hi>Jacob,</hi> in the 2 <hi>verſ.</hi> of this Pſalm. Why the gates of
+<hi>Zion</hi> more then any other gates elſe? Namely, becauſe of the
+<hi>Ordinances</hi> and Per<g ref="char:EOLhyphen"/>formances which are there in uſe. Where any are
+gathered together in his name, there is <hi>He</hi> preſent <pb n="9" facs="tcp:114971:7"/>amongſt them. <hi>Here</hi> are <hi>excellent truths</hi> revealed,
+and <hi>excellent duties</hi> performed, and <hi>excellent priviledges</hi>
+enjoyed, as pertaining hereunto; and all <hi>theſe</hi> likewiſe tending
+and conducing to an <hi>excellent end,</hi> which is con<g ref="char:EOLhyphen"/>ſequent and
+following hereupon, through Gods bleſſing upon them; even
+<hi>converſion</hi> and <hi>regeneration</hi> here, and <hi>ſalvation</hi>
+and <hi>glory</hi> hereafter; which we are put into a <hi>capacity of,</hi> and
+into <hi>a way unto,</hi> by ſuch <hi>opportu<g ref="char:EOLhyphen"/>nities</hi> as theſe are.</p>
+            <p>
+               <note place="margin">The improve<g ref="char:EOLhyphen"/>ment.</note>This is that therefore
+which we have cauſe much to acknowledge and to be affected withall. We of
+this <hi>Nation in general,</hi> and We of this <hi>City in particu<g ref="char:EOLhyphen"/>lar.</hi>
+The great goodneſſe and mercy of God to us in this reſpect, That we have
+been born <hi>here.</hi> Not in <hi>Egypt,</hi> but in <hi>Goſhen;</hi> Not
+in <hi>Babylon,</hi> but in <hi>Zion;</hi> Not in the <hi>valley of
+darkneſſe,</hi> but in the <hi>valley of viſion,</hi> and under the
+<hi>beams of light it ſelf.</hi>
+            </p>
+            <p n="1">
+               <note place="margin">1. By the Na<g ref="char:EOLhyphen"/>tion in
+ge<g ref="char:EOLhyphen"/>neral.</note>Firſt, <hi>We</hi> of this <hi>Nation,</hi> that we have been
+born <hi>here.</hi> And <hi>here</hi> in the right <hi>Reflexion,</hi> and
+reduplication of it; not in <hi>Paganiſm,</hi> but in
+<hi>Chriſtianity;</hi> not in <hi>Popery,</hi> but in the true
+<hi>Religion.</hi> For we muſt know and conſider that there hath been a
+double hand of con<g ref="char:EOLhyphen"/>verſion and Reformation which has paſt upon us here in
+this Iſland. A Converſion from <hi>Heatheniſm</hi> and
+<hi>Infide<g ref="char:EOLhyphen"/>lity;</hi> as we were ſometimes a <hi>barbarous Nation,</hi> as
+wilde and ſavage as any other in all the world; which once we were. And a
+Converſion from <hi>Antichriſtianiſm</hi> and <hi>Superſtition,</hi> as
+we were ſometime a <hi>Popiſh</hi> Nation, and overgrown with the
+<hi>corruptions</hi> of <hi>Rome;</hi> which once alſo we were. We are to own
+our deliverance from both in regard of the <hi>Nation,</hi> and our
+<hi>birth</hi> as partaking of that deliverance in regard of <hi>our
+ſelves;</hi> as born in ſuch a Time and Age, which (through Gods 
+<pb n="10" facs="tcp:114971:8"/>goodneſs) was freed from either. <hi>This</hi> is that
+which is the great priviledge and advantage indeed unto us. It is <hi>this</hi>
+that makes it <hi>there.</hi> To be born in <hi>ſuch an Aire, under ſuch a
+Climate, within ſuch a compaſſe of ground and earth;</hi> It is not
+<hi>that</hi> which is any great matter. Our <hi>Fore-fathers</hi> that lived
+in Darkneſs, and Ignorance, and Blindneſſe, and Superſtition, they were
+in <hi>this</hi> ſenſe born <hi>here</hi> as well as <hi>we.</hi> No, but
+to be born in dayes of <hi>knowledge</hi> and <hi>light,</hi> under the
+preach<g ref="char:EOLhyphen"/>ing of the Goſpel, and the Diſpenſation of the Ordi<g ref="char:EOLhyphen"/>nances, and
+the enjoyment of the truth; this is our glory, and joy, and Crown of rejoycing
+above any thing elſe beſides: and thoſe which are born <hi>thus,</hi> are
+born <hi>there.</hi> Thus <hi>we</hi> of this Land and Nation in generall.</p>
+            <p n="2">
+               <note place="margin">2. By the City in ſpecial.</note>But
+then ſecondly, <hi>We</hi> of this <hi>City</hi> and place in particular; we
+have cauſe to acknowledge it more e<g ref="char:EOLhyphen"/>ſpecially. And we are come to
+acknowledge it this Day. It is a main end of of our meeting and aſſem<g ref="char:EOLhyphen"/>bling
+together at this thime, if we know what it is which we are met and
+aſſembled for, To praiſe God for this happy providence which hath been
+afforded unto us. That we ſhould be born not only in <hi>Jury,</hi> but
+alſo in <hi>Sion;</hi> and that not in the <hi>literal ſenſe</hi>
+nei<g ref="char:EOLhyphen"/>ther, but in the <hi>ſpiritual;</hi> not in the <hi>legal Sion,</hi> but
+in the <hi>evangelical.</hi> That God ſhould caſt and diſpoſe our
+beginnings in <hi>ſuch a place,</hi> as wherein we might ſuck in
+<hi>Religion</hi> with the ayre in which we breath, according to the
+<hi>various opportunities</hi> which are here adminiſtred to us. For ſo
+there are, as no place under heaven the like. <hi>This</hi> is that which
+<hi>cals</hi> for our ac<g ref="char:EOLhyphen"/>knowledgment. The <hi>Pſalmiſt</hi> when he would
+advance <hi>Sion,</hi> and ſet forth the glory of it; how does he do 
+<pb n="11" facs="tcp:114971:8"/>it? in Pſal. 48.1, &amp;c. he does it from hence, in that
+it is the <hi>City of God and the mountain of holineſſe.</hi> Beautifull
+for ſituation, the joy of the whole earth is <hi>mount Sion,</hi> on the
+ſides of the north, the City of the <hi>great King. God is known</hi> in her
+palaces for a refuge. Yea <hi>there</hi> was the glory of <hi>Sion,</hi> that
+<hi>God</hi> was known in her. And ſo <hi>Jeruſalem,</hi> he expreſſes
+this of it as the great ornament to it; That thither the <hi>tribes went up,
+the tribes of the Lord</hi> to the teſtimony of <hi>Iſrael:</hi> And that
+the houſe of the Lord was in it, Pſal. 122.4, <hi>&amp;c.</hi> And that
+which was the glory of <hi>Sion,</hi> the ſame is the glory of
+<hi>London;</hi> without <hi>this, London</hi> were no more then
+<hi>Ligorne</hi> or <hi>Conſtantinople,</hi> or any other City beſides in
+the whole world. This is that which puts an <hi>honor upon it,</hi> the
+diſpenſations and means of grace which are vouchſafed unto it; and which
+accordingly they have the benefit and advan<g ref="char:EOLhyphen"/>tage of, which are brought forth
+and brought up in it.</p>
+            <p n="3">
+               <note place="margin">3. By all toge<g ref="char:EOLhyphen"/>ther.</note>This it is not
+only matter of <hi>dignity,</hi> and to be looked upon by us <hi>ſo,</hi> but
+likewiſe (as all other mercies and priviledges beſides are) it is matter of
+<hi>duty</hi> too, and obliges us to anſwerable behaviours. Beloved, We are
+accountable to God for our <hi>births,</hi> and the places of our breeding and
+bringing up, in which it hath been. There are ſome which have been born not
+only in <hi>Sion at large</hi> in regard of the <hi>common opportunities,</hi>
+but alſo in <hi>Sion</hi> more particu<g ref="char:EOLhyphen"/>larly, in regard of the ſpeciall
+advantages which they have been partakers of. Not only born in a <hi>City of
+Religion,</hi> but moreover in <hi>religious families,</hi> of <hi>godly and
+religious Parents,</hi> which have been godlily and religiouſly educated and
+nurtured in the fear of the <pb n="12" facs="tcp:114971:9"/>Lord. There are many which have
+lived under <hi>faith<g ref="char:EOLhyphen"/>ful Miniſters,</hi> and <hi>faithful Masters,</hi> and
+<hi>Governors,</hi> &amp;c. Now what an ingagement does from hence lie up<g ref="char:EOLhyphen"/>on
+them to be that which they ſhould <hi>be?</hi> How much <hi>better</hi>
+ſhould they be then other <hi>men?</hi> Oh it's a fear<g ref="char:EOLhyphen"/>full thing to ſin
+againſt <hi>good education,</hi> and the in<g ref="char:EOLhyphen"/>ſtillation of gracious
+principles! God will one day call to reckoning for it. The Lord will
+<hi>count</hi> when he writes up the people; That this man was born
+<hi>there.</hi> He was born in ſuch a <hi>Nation,</hi> in ſuch a
+<hi>Coun<g ref="char:EOLhyphen"/>trey,</hi> in ſuch a <hi>City,</hi> in ſuch a <hi>Family,</hi>
+&amp;c. God ob<g ref="char:EOLhyphen"/>ſerves and takes notice of it, and how far he is the bet<g ref="char:EOLhyphen"/>ber
+for it, or how far he is not. That which is in it ſelf a <hi>mercy,</hi> in
+the <hi>miſimprovement</hi> of it is a <hi>judgement;</hi> and we had better
+been abſolutely without it, if we be not the better for it. That ſo we may
+not glory in theſe <hi>priviledges meerly for themſelves,</hi> but rather
+take care how <hi>we manage them and make uſe of them.</hi> And ſo much of
+<hi>Sion</hi> in the <hi>firſt notion,</hi> as taken <hi>locally;</hi> and to
+be born in it, <hi>i. e.</hi> born in the <hi>viſible Church.</hi>
+            </p>
+            <p n="2">
+               <note place="margin">2. Myſtical.</note> The ſecond is as
+taken <hi>Myſtically.</hi> To be <hi>born in Sion, i. e.</hi> To be
+<hi>regenerate and born again;</hi> to be a member of the Church which is
+inviſible. This is a great pri<g ref="char:EOLhyphen"/>viledge indeed, and the higheſt of all. All
+are not <hi>Iſrael</hi> which are <hi>of Iſrael.</hi> Nor all born in
+<hi>Sion</hi> accor<g ref="char:EOLhyphen"/>ding to the <hi>Spirit,</hi> which are born in it according
+to the <hi>fleſh.</hi> But yet this <hi>ſpiritual birth</hi> is that which
+is <hi>prin<g ref="char:EOLhyphen"/>cipally to be regarded,</hi> and to be looked after above any
+beſides. In Rom. 2.28,29. He is not a <hi>Jew</hi> which is one
+<hi>outwardly;</hi> neither is that <hi>circumciſion</hi> which is outward in
+the <hi>fleſh.</hi> But he is a <hi>Jew</hi> which is one <hi>inwardly,</hi>
+and <hi>circumciſion</hi> is that of the <hi>heart,</hi> whoſe 
+<pb n="13" facs="tcp:114971:9"/>praiſe is not of <hi>men,</hi> but of <hi>God.</hi> To be
+born <hi>indeed,</hi> is to be new-born; That is the <hi>main birth</hi> of
+all. And they are to purpoſe born <hi>there</hi> which are born
+<hi>thus.</hi> S. <hi>Paul</hi> ſalutes <hi>Andronicus</hi> and
+<hi>Junia,</hi> eſpecially upon this ac<g ref="char:EOLhyphen"/>count, as in <hi>Chriſt before
+him.</hi> 
+               <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Rom. 16.7. He is born
+<hi>firſt</hi> who is firſt born <hi>anew;</hi> and he is the ancienteſt
+<hi>Man,</hi> that's the <hi>ancienteſt Chriſtian.</hi> My little children
+of whom I travel in birth again till <hi>Chriſt be form'd in you,</hi>
+ſayes the Apoſtle <hi>Paul</hi> to the <hi>Galatians,</hi> in Gal. 4.19.
+What ever birth comes ſhort of <hi>this,</hi> it is in a ſort <hi>but
+monſtrous</hi> and im<g ref="char:EOLhyphen"/>perfect, though it be otherwiſe adorned with ne<g ref="char:EOLhyphen"/>ver
+ſo many <hi>accompliſhments</hi> and <hi>qualifications</hi>
+be<g ref="char:EOLhyphen"/>ſides.</p>
+            <p>
+               <note place="margin">Our Natural condition.</note>For this purpoſe
+it is very pertinent to conſider what we are <hi>in our natural
+condition,</hi> we are <hi>all by Na<g ref="char:EOLhyphen"/>ture the children of wrath,</hi> as the
+Apoſtle expreſſes it, Epheſ. 2.3. <hi>Our Birth</hi> and our Nativity
+of the <hi>land of Canaan;</hi> our Father <hi>an Amorite, our Mother an
+Hittite,</hi> Ezek. 16.3. We were <hi>ſhapen in iniquity,</hi> and in ſin
+<hi>did our Mothers conceive us;</hi> in Pſal. 51.5. Every <hi>imagination or
+frame</hi> of our Hearts and the thoughts of them, <hi>were only evill
+continually.</hi> Now certainly there muſt <hi>be ſome change therefore
+wrought,</hi> if ever we be that, <hi>which we ſhould be.</hi> Our birth
+&amp; nativity <hi>of Canaan,</hi> it will not <hi>ſerve the turn;</hi> No,
+<hi>But</hi> we <hi>muſt</hi> be <hi>born in Sion:</hi> And this is that
+which we have <hi>now before us,</hi> as commended unto us: this
+<hi>ſpiritual and ſupernatu<g ref="char:EOLhyphen"/>ral Birth.</hi> That we be <hi>Regenerated</hi>
+and new princi<g ref="char:EOLhyphen"/>pled. Except a man <hi>be born again,</hi> he cannot ſee the
+Kingdome of God, (Joh. 3.3.) <hi>Born again,</hi> that is, as the word properly
+ſignifies, born <hi>from above</hi>
+               <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. He muſt fetch his Birth and
+<hi>pedegree from thence,</hi> or <pb n="14" facs="tcp:114971:10"/>elſe he is but in a
+poor condition. There is no man is born <hi>to</hi> Heaven, except he be born
+<hi>from</hi> it, and has principles anſwerable to it. In 1 Pet. 1.3. Who
+<hi>hath begotten us again</hi> to a lively hope by <hi>the reſur<g ref="char:EOLhyphen"/>rection of
+Jeſus Chriſt from the dead,</hi> that is, by ſuch a <hi>ſpirituall
+power</hi> which is conformable to this Reſurrection, and is the fountain of
+Regeneration in us.</p>
+            <p>
+               <note place="margin">A word of Examination.</note>Therefore we
+ſhould eſpecially look to <hi>this,</hi> to finde it <hi>in our
+ſelves.</hi> That we are in <hi>this ſenſe born in Sion.</hi> And that
+<hi>Jeruſalem, which is above,</hi> and is free, <hi>be the Mother of us
+all,</hi> Gal. 4.26. That our <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> our
+Citizenſhip be <hi>in Heaven,</hi> Phil. 3.20. without which all <hi>civil
+Priviledges</hi> or <hi>natural</hi> will be of little worth to us.
+<hi>This</hi> is that which we are called to <hi>in the Goſpel</hi> and the
+miniſtery of it: it is <hi>ordained</hi> for ſuch <hi>an End as this;</hi>
+and this eſpecially. Thus the Apoſtle to the <hi>believing Hebrewes;</hi>
+Heb. 12.22. Ye are come <hi>unto Mount Sion,</hi> and unto the <hi>City of the
+living God, the heavenly Jeruſalem.</hi> Come! <hi>How ſo?</hi> as <hi>by
+the Goſpel</hi> ye <hi>have been called;</hi> and as by <hi>Faith you have
+been received</hi> into the Communion <hi>of the Chriſtian Church,</hi> which
+was figured by <hi>Jeruſalem</hi> and by <hi>Mount Sion;</hi> That's the
+coming there meant. And we never come <hi>to purpoſe</hi> till we come
+<hi>thus:</hi> till not only <hi>we partake of the Goſpel</hi> as
+<hi>communicated to our outward Ears;</hi> but as <hi>digeſted</hi> and
+wrought in<g ref="char:EOLhyphen"/>to our <hi>Hearts.</hi> This is <hi>true Religion</hi> indeed; and
+this is to be <hi>truly Religious,</hi> to be thus affected in <hi>our
+ſelves. Religion</hi> is not a <hi>thing taken up,</hi> as ſome cuſtome
+and faſhion, or the like; No, but it is ſomewhat <hi>imbred in us;</hi> It
+is <hi>incorporated and moulded</hi> into us, and we <hi>into it: Imbred,</hi>
+not by the <hi>firſt Nature,</hi> but by the <hi>ſe<g ref="char:EOLhyphen"/>cond:</hi> 
+               <pb n="15" facs="tcp:114971:10"/>we are <hi>created</hi> in Chriſt Jeſus to good works;
+and ſo <hi>his</hi> workmanſhip, Epheſ. 2.10. And if any man <hi>be in
+Chriſt,</hi> he is a <hi>new Creature.</hi> And nothing which is
+<hi>leſſe</hi> then this will be ſufficient for us. This may be
+diſcovered in us, and to us; according to <hi>the ſeveral workings</hi> of
+this new Creature in us. If we <hi>be born in Sion,</hi> we ſhall
+underſtand <hi>the language of Sion;</hi> we ſhall ſpeak <hi>the
+phraſe</hi> of it, we ſhall agree with <hi>the diet</hi> of it; <hi>as new
+born babes</hi> we ſhall deſire <hi>the ſincere milk</hi> of the word,
+that we <hi>may grow therely. Ex eiſdem principiis nutrimur, è quibus
+conſtamus:</hi> thoſe Truths which are <hi>moſt ſpiritual</hi> in this
+caſe will be <hi>moſt acceptable</hi> unto us.</p>
+            <p>
+               <note place="margin">A twofold Diſ<g ref="char:EOLhyphen"/>covery.</note>There are two
+ſenſes <hi>in Nature,</hi> which we call <hi>ſenſes of
+Neceſsity,</hi> as ſuch which are abſolutely required to the Being of a
+<hi>living Creature.</hi> And there are the ſame proportionably <hi>in
+Grace,</hi> and required to the <hi>Be<g ref="char:EOLhyphen"/>ing of a Chriſtian: Tactus &amp;
+Cuſtus: A ſpiritual Touch,</hi> and a <hi>ſpiritual Taſte;</hi> a
+<hi>tenderneſſe</hi> of ſpirit, and a <hi>ſa<g ref="char:EOLhyphen"/>vourineſſe of
+ſpirit:</hi> what we <hi>feel,</hi> and what we <hi>reliſh.</hi> And
+accordingly may we from hence judge of the work of <hi>Regeneration</hi> in
+us.</p>
+            <p n="1">
+               <note place="margin">1. By a ſpiri<g ref="char:EOLhyphen"/>tual
+Touch.</note>Firſt, by <hi>our ſpiritual Touch,</hi> in that
+<hi>tenderneſſe of conſcience</hi> which is in us. Where there's
+<hi>life,</hi> there will be <hi>ſenſe;</hi> and ſo <hi>here.</hi> 
+               <note place="margin">A twofold Tenderneſſe.</note>There's a
+<hi>double tenderneſſe;</hi> an<g ref="char:EOLhyphen"/>tecedent and conſequent: antecedent to
+keep us <hi>from</hi> evill; and conſequent, to check <hi>us for it.</hi> And
+both theſe neceſſary to a Chriſtian.</p>
+            <p n="1">
+               <note place="margin">1. Antecedent.</note>Firſt, for that
+which is <hi>Antecedent:</hi> a Chriſtian has a tenderneſſe
+<hi>here,</hi> to reſtrain him and keep <hi>him in,</hi> from whence he
+cannot <hi>do every thing, which another can do;</hi> or which his Nature
+inclines him to? And that upon <hi>principles of Judgement and right
+informa<g ref="char:EOLhyphen"/>tion: <pb n="16" facs="tcp:114971:11"/>A ſcrupulous Conſcience,</hi> is not
+alwaies a <hi>tender Conſcience,</hi> nor a <hi>tender Conſcience</hi> a
+<hi>ſcrupulous.</hi> The <hi>one</hi> oftentimes proceeds from
+<hi>weakneſſe of Judgement.</hi> The <hi>other</hi> from <hi>ſtrength of
+Grace,</hi> and the <hi>principles of ſpiritual life</hi> in us, which
+therefore we <hi>cannot be with<g ref="char:EOLhyphen"/>out,</hi> and in the mean time be <hi>true
+Chriſtians.</hi> Thoſe which have a <hi>wide ſwallow,</hi> and can down
+with any thing <hi>indefinitely</hi> without any <hi>chawing,</hi> they have
+cauſe to <hi>ſuſpect themſelves,</hi> as that all is not right with
+them, as to the <hi>work of Grace</hi> in them.</p>
+            <p n="2">
+               <note place="margin">2. Conſequent.</note>Secondly, There's
+a <hi>Conſequent</hi> or <hi>Subſequent</hi> Ten<g ref="char:EOLhyphen"/>derneſſe; from whence
+Conſcience checks <hi>for</hi> evill; this is alſo a very <hi>good
+character:</hi> when the ſoul that is <hi>guilty of ſin</hi> is preſently
+troubled for it, and troubled with it: and that though never <hi>ſo ſmall,
+nor never ſo ſecret,</hi> and that not only from natural conſcience, but
+from a work of the ſpirit. This is that which we may obſerve oftentimes in
+divers of the Saints in Scripture: <hi>As David for example,</hi> he was a man
+of a <hi>tender</hi> ſpirit, and his Heart it <hi>preſently ſmote
+him,</hi> for any thing which was amiſſe in him; ſo will <hi>ours</hi>
+doe likewiſe if we be of the <hi>ſame ſpirit with him.</hi> There will be
+in us upon any miſcarriage which is diſcern'd by us, <hi>Sin<g ref="char:EOLhyphen"/>gultus
+Cordis,</hi> an <hi>upbraiding or riſing of Heart,</hi> as it is termed by
+<hi>Abigail</hi> in 2 Sam. 25.31. And the more Gracious, ſtill the more quick
+and apprehenſive in this particular. Look as it is in the <hi>Body;</hi> the
+<hi>fineſt conſti<g ref="char:EOLhyphen"/>tutions</hi> are moſt ſenſible of a diſtemper:
+ſo in the ſoul; are the moſt ſpiritual <hi>Chriſtians</hi> moſt
+ſenſible of an in<g ref="char:EOLhyphen"/>firmity in themſelves.</p>
+            <p n="2">
+               <note place="margin">2. A ſpiritual Taſte.</note>But
+ſecondly, As there's a diſcovery of us from our <hi>ſpiritual Touch,</hi>
+ſo likewiſe from our ſpiritual <hi>Taſte;</hi> we may ſee what we are
+<hi>by this.</hi> Creatures which <pb n="17" facs="tcp:114971:11"/>have <hi>life,</hi> they
+have a <hi>reliſh,</hi> to diſtinguiſh of what is <hi>good</hi> for them,
+from what is hurtfull and offenſive; and ſo it is in the new creature. 
+<note place="margin">A double Taſte.</note>A true Chriſtian, he
+has his <hi>palat</hi> rightly qualified in him; and that to a double
+purpoſe. Firſt, to diſtinguiſh <hi>Truth from Error:</hi> and
+ſecondly, to diſtinguiſh <hi>ſolid meat from Traſh.</hi>
+            </p>
+            <p n="1">
+               <note place="margin">1. Of Truth from Error.</note>Firſt,
+<hi>Truth from Error:</hi> A gracious heart will di<g ref="char:EOLhyphen"/>ſtinguiſh
+<hi>this,</hi> eſpecially ſuch truths as are material and of the
+ſubſtance of Religion; the more there is of <hi>true Grace,</hi> there will
+be a cloſing with <hi>true Do<g ref="char:EOLhyphen"/>ctrine;</hi> If any <hi>man do the will of him
+that ſent me,</hi> he ſhall <hi>know of the Doctrine</hi> which I teach,
+whether <hi>it be of God or no,</hi> ſayes our bleſſed Saviour, Joh.
+7.17. There are <hi>principles in the Conſcience</hi> anſwerable to
+<hi>Doctrines in the word,</hi> and theſe agree one with the other like two
+Indentures; and <hi>diſagree</hi> there where they are <hi>contrary.</hi>
+Thoſe which are for all kinde of Tenents, are commonly for all kinde of
+practiſes; and a latitude of <hi>judgement,</hi> hath a latitude of
+<hi>converſa<g ref="char:EOLhyphen"/>tion</hi> with it.</p>
+            <p n="2">
+               <note place="margin">2. Of ſolid meat from
+traſh.</note>Secondly, There's a diſcerning likewiſe of <hi>ſolid meat
+from traſh:</hi> Kickſhawes and ſlight proviſions will not ſatisfie
+<hi>hungry ſtomachs;</hi> no more will fancies and ſpeculations and
+wordings and quirks of wit, hungry ſouls; Thoſe which have the true
+ſpiritual appetite and taſte in them, they will reliſh as nothing but
+truth, ſo nothing neither but ſubſtantial food; The words of <hi>Faith
+and good Doctrine,</hi> which they are nouriſht up in, 1 Tim. 4.6. And the
+words of Truth and ſoberneſſe, Act. 26.25. Theſe and the like
+accompliſhments with them are the diſcoveries of this ſpiritual life and
+birth whereof we now ſpeak.</p>
+            <p>
+               <pb n="18" facs="tcp:114971:12"/>
+               <note place="margin">The Exhorta<g ref="char:EOLhyphen"/>tion
+renewed.</note>And therefore (to renew the Exhortation) let us conſider how
+far we do indeed <hi>partake of them.</hi> There are many which are exceedingly
+<hi>miſtaken in this buſi<g ref="char:EOLhyphen"/>neſſe,</hi> who take <hi>Civility for
+Chriſtianity,</hi> and Morality for true Piety; and <hi>ſome common work of
+the Spirit,</hi> for the <hi>work of ſaving Grace and ſpirituall
+Regeneration;</hi> which are but <hi>half converted Chriſtians: Not far from
+the Kingdome of God;</hi> and yet likely <hi>never to come thither,</hi>
+according <hi>to the ſtate and condition in which at preſent they are;</hi>
+But Embryoes and Abortives in Re<g ref="char:EOLhyphen"/>ligion: nay ſcarce ſo much as that: as
+<hi>Agrippa</hi> almoſt perſwaded
+<gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. This is a miſerable thing, and
+ſo much the more miſerable, as for the moſt part they pleaſe
+themſelves in it. We bewail Molas and falſe conceptions in Nature: and what
+is it then to have them in Grace and in Spirituals, as many men have?</p>
+            <p>
+               <note place="margin">Grounds of ſelf-deceit.</note>There are
+divers Grounds and occaſions of this ſelf-deceit; Some there are that judge
+of <hi>themſelves</hi> according as <hi>others</hi> judge of them. Becauſe
+they are well <hi>thought of abroad,</hi> and are cryed up in the world, have
+the <hi>opinion and good eſteem</hi> of <hi>ſuch and ſuch god<g ref="char:EOLhyphen"/>ly
+Chriſtians,</hi> and of <hi>ſuch and ſuch godly Miniſters,</hi> which
+are willing to make the <hi>beſt of a little,</hi> and to incourage
+<hi>ſome ſmall appearances of good</hi> in them, that ſo they may draw
+them on to more: therefore they think the <hi>work of Grace</hi> is complete
+and finiſht in them. It may be they are in ſuch a <hi>form and way</hi> of
+profeſſion, attend upon <hi>ſuch a Miniſtery,</hi> and are accuſtomed
+to ſuch &amp; ſuch company; therefore they muſt needs be as good as
+thoſe which <hi>they are acquainted withall.</hi> But alas! what poor things
+are theſe to hold by, and to <hi>build ones</hi> hope upon? Oh Beloved,
+theſe will ſerve in a day <pb n="19" facs="tcp:114971:12"/>of <hi>peace,</hi> but they
+will not ſerve in a day of <hi>trouble;</hi> as long as men are in health and
+proſperity, and out of the reach of <hi>Temptation,</hi> ſuch weak things
+as theſe may ſuffice them, and ſatisfie their mindes: but in
+ſickneſſe, and death, and the hour of triall, theſe things, they will
+not ſerve. Then they'l be ready to cry out with <hi>him; Alia ſunt Judicia
+hominum; alia ſunt Judicia Dei.</hi> The opinions of <hi>men</hi> are one
+thing, and the opi<g ref="char:EOLhyphen"/>nion of <hi>God</hi> is another; whoſe Judgement is
+accor<g ref="char:EOLhyphen"/>ding to Truth, and ſo moſt of all to be regarded by us: that ſo we
+may have rejoycing in our ſelves alone, and not in another, having approved
+our work to <hi>him,</hi> as it is Gal. 6.4.</p>
+            <p>We finde in ordinary experience, that thoſe which <hi>have
+moſt of the Cry,</hi> have leaſt of the <hi>Wool.</hi> (It is ſo <hi>in
+every thing almoſt we can name;</hi>) which do
+<gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> make a fair ſhew in the
+fleſh; and that's enough for them they think; and <hi>God in judge<g ref="char:EOLhyphen"/>ment</hi>
+ſuffers <hi>it to be ſo;</hi> that whiles men are <hi>taken with
+applauſe,</hi> and eſteem of <hi>themſelves accordingly,</hi> they may
+have their <hi>reward,</hi> and it may be all which is <hi>emi<g ref="char:EOLhyphen"/>nent</hi> in
+them.</p>
+            <p>Others there are that judge of themſelves <hi>by ſome
+abilities which they</hi> are indued withall, or <hi>performan<g ref="char:EOLhyphen"/>ces which come
+from them</hi> which reckon of <hi>Grace by Gifts,</hi> and <hi>by duties which
+they are converſant in;</hi> Be<g ref="char:EOLhyphen"/>cauſe perhaps they have ſuch a
+<hi>meaſure and degree of knowledge,</hi> obtained by education and
+converſe, or ſuch a <hi>meaſure and degree of utterance,</hi> and
+diſcourſe, &amp; facility of expreſſion, as a natural qualification in
+them, therefore their caſe is good with them, whereas (alaſſe!) all this
+may be, and the <hi>heart</hi> the mean while rem in unchanged. And ſo for
+performances; becauſe they <pb n="20" facs="tcp:114971:13"/>abound in <hi>them;</hi> which
+though <hi>good</hi> and <hi>to be</hi> aboun<g ref="char:EOLhyphen"/>ded <hi>in,</hi> yet are no
+<hi>demonſtration.</hi>
+            </p>
+            <p>Much leſſe (which too many uphold by) their plen<g ref="char:EOLhyphen"/>ty and
+proſperity in the world. Theſe are all far from the mark, and do not come
+up to this work of the new Creature which is here exhibited to us.</p>
+            <p>Let us therefore all labour to be upon ſurer termes in a
+buſineſſe of ſo great concernment; and whereupon all our hope and
+comfort does eſpecially depend, as indeed it does. If we be not the children
+of <hi>Sion,</hi> we are the children of <hi>Satan:</hi> and if we be not in
+<hi>this ſenſe</hi> born <hi>there,</hi> we are born to very little
+purpoſe.</p>
+            <p>Therefore let us make this good to our ſelves upon infallible
+grounds. Errors in the <hi>firſt foundation,</hi> they are for the moſt
+part <hi>irrecoverable:</hi> I am ſure 'tis ſo <hi>here;</hi> if we be not
+right as to the <hi>fundamental work and begin<g ref="char:EOLhyphen"/>nings</hi> of Godlineſs in us,
+all our following profeſſion, and converſation, it comes to nothing. As
+we ſee again it is in <hi>Nature,</hi> and in the <hi>ſtate of the
+Body,</hi> if a man be not <hi>well-born,</hi> that is, of a <hi>ſound and
+healthful con<g ref="char:EOLhyphen"/>ſtitution;</hi> but have ſome notorious <hi>defect of
+Nature</hi> in him, with which he came into the world; he will ne<g ref="char:EOLhyphen"/>ver be right
+all his life, though ye phyſick him and patch him up as much as ye can;
+becauſe there is a flaw in his principles. Even ſo is it alſo here in
+<hi>Grace,</hi> and as to the ſtate of the <hi>Soul.</hi> If a man have not
+the right work of converſion and regeneration in him, he will never be a good
+and ſound Chriſtian as long as he lives: he may be patcht up a little with
+duties, and good ſociety, and ſuch things as theſe; which are things
+which I do not ſlight, (there are too many in the world that do in theſe
+preſent daies) but if he hath nothing elſe beſides, he will be but a
+Skele<g ref="char:EOLhyphen"/>ton; <pb n="21" facs="tcp:114971:13"/>nay a <hi>Monster</hi> in Religion, and of no
+ac<g ref="char:EOLhyphen"/>count.</p>
+            <p>To preſſe <hi>home this point ſo much the more:</hi> of
+in<g ref="char:EOLhyphen"/>devouring for this work which we ſpeak of, let us take in this
+conſideration with us: that namely, this will make us ſo much the <hi>more
+conſtant</hi> and ſtedfaſt in Re<g ref="char:EOLhyphen"/>ligion. Thoſe that take up Religion
+<hi>upon truſt</hi> or <hi>upon cuſtome,</hi> becauſe others do ſo,
+they are very <hi>un<g ref="char:EOLhyphen"/>certain</hi> in the profeſſion of it; becauſe their
+<hi>principles</hi> are uncertain on which they <hi>ſtand.</hi> But now
+thoſe who are <hi>Religious from the principles of the new Creature,</hi>
+they will be <hi>firm</hi> and <hi>abiding</hi> in it. There's nothing which is
+ſo <hi>convincing as Senſe,</hi> and the Demonſtrati<g ref="char:EOLhyphen"/>ons which are made
+to <hi>that:</hi> now thus it is here in this preſent buſineſſe;
+there's a <hi>ſpiritual ſenſe,</hi> as well as a <hi>natural,</hi> and
+the <hi>former</hi> full as ſatisfactory as the <hi>latter;</hi> for that
+<hi>proportion,</hi> in which it is in us. Look as a <hi>man in Nature,</hi> he
+has theſe and theſe <hi>natural workings in him,</hi> which he is ſure of
+and cannot be beaten from: ſo in <hi>Grace</hi> are there <hi>the l<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ke workings of Spirit</hi> which cannot
+be gainſayed. There are the <hi>Experiences</hi> of Chriſtians as
+<hi>Chriſtians,</hi> which <hi>all Chriſtians</hi> are ac<g ref="char:EOLhyphen"/>quainted withall.
+And this was the Apoſtles meaning in that expreſſion of his to the
+<hi>Philippians,</hi> in Phil. 1.9,10. And this I pray, that your love may
+abound yet more <hi>in all knowledge, and in all judgement:</hi> or as it is in
+the margent, in all <hi>ſenſe:</hi> for ſo the word properly ſignifies:
+<gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which ſeems to anſwer that
+of <hi>David,</hi> Pſal. 119.66. <hi>Give me good judgement and
+knowledge.</hi> 
+               <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> Good
+<hi>Taſte</hi> and knowledge. There's a taſte in <hi>Grace</hi> as well as
+there is in <hi>Nature;</hi> and that I ſay as firm as the other, and which
+Believers partaking of, they from hence be<g ref="char:EOLhyphen"/>come <pb n="22" facs="tcp:114971:14"/>more
+ſetled and reſolved then other men are; the Truths which another man knowes
+and believes only from diſcourſe, a Chriſtian knowes from experience. As
+for Inſtance, in <hi>two</hi> or <hi>three particulars: Another</hi> man, he
+believes there's a <hi>God,</hi> for ſuch and ſuch <hi>na<g ref="char:EOLhyphen"/>tural</hi>
+reaſons, which perſwade him to it; a <hi>Christian,</hi> becauſe he has
+<hi>acquaintance, and converſe, and commu<g ref="char:EOLhyphen"/>nion with him. Another</hi> man
+<hi>acknowledges the Scriptures</hi> from the <hi>Teſtimony and authority of
+the Church,</hi> which has tranſmitted them to him; A <hi>beleever</hi> from
+the power, and efficacy, and autopiſty in the Scriptures themſelves, and
+that agreement and correſpondency which they have with his own heart and
+conſcience, ſo far forth as <hi>renewed. Another</hi> man beleeves there's
+an Heaven, and a bleſſed eſtate and condition of Gods <hi>people</hi> in
+another world, becauſe it is a point which is <hi>received</hi> by all that
+mention Chriſtianity: a <hi>regenerate perſon</hi> and childe of God, who
+is <hi>born in Sion,</hi> from <hi>the firſt fruits of the Spirit,</hi> and
+the anticipations and beginnings of Heaven in his own ſoul; <hi>Knowing in
+your ſelves,</hi> that ye have in heaven a better and more induring
+ſubſtance, as the Apoſtle argues to the be<g ref="char:EOLhyphen"/>leeving <hi>Hebrewes,</hi>
+Heb. 10.34. and ſo of the reſt: Ye have an <hi>Unction</hi> from the holy
+one, and ye <hi>know all things,</hi> ſayes the Apoſtle <hi>John,</hi> 1
+Joh. 2.29. And again, the <hi>anointing</hi> which ye have <hi>received</hi> of
+him teacheth you &amp;c. and it is Truth and is <hi>no lie:</hi> what's this
+<hi>Unction</hi> and <hi>Anointing?</hi> Even <hi>Regeneration,</hi> and the
+ſanctifying work of the Spirit; the work of the new creature in them; this
+abiding in them, <hi>it taught them,</hi> &amp;c.</p>
+            <p>And this by the way gives us <hi>an account of the con<g ref="char:EOLhyphen"/>trary
+Errors</hi> and falſe Doctrines and opinions which are <pb n="23" facs="tcp:114971:14"/>abroad in the world; why there are ſo many <hi>ſtrange Tenents and
+concluſions</hi> which <hi>are broach'd and divulged,</hi> not only <hi>in
+lighter matters,</hi> and ſuch as are of ſmaller concernment (wherein every
+one hath liberty to abound in his own ſenſe, ſo he diſturbs not the
+common peace of the Church) but in the very <hi>ſubſtantials</hi> and
+<hi>fundamentals</hi> of Religion, the truth of it plainly <hi>is</hi> this,
+becauſe there is ſo great a defect as to the <hi>work of Grace.</hi>
+Therefore we have ſo many <hi>Hereticks,</hi> becauſe we have ſo many
+<hi>Hypocrites;</hi> if men had bet<g ref="char:EOLhyphen"/>ter <hi>hearts,</hi> they would have better
+<hi>heads;</hi> and if they were better <hi>Chriſtians,</hi> they would be
+better <hi>Divines:</hi> But becauſe they fail in the <hi>one,</hi> therefore
+they prove defective in the <hi>other.</hi> That man that has a <hi>gracious
+ſpirit,</hi> he cannot eaſily have a <hi>corrupt Judgement</hi> in thoſe
+things which are of the <hi>Eſſence of godlineſſe,</hi> be<g ref="char:EOLhyphen"/>cauſe his
+<hi>experience</hi> will ſet him right, and prevent ſuch corruptions in
+him; Indeed, it does not hold re<g ref="char:EOLhyphen"/>ciprocally, and <hi>è converſo.</hi>
+A man may be ortho<g ref="char:EOLhyphen"/>dox in <hi>his judgement,</hi> and yet but barren in <hi>his
+heart, as not receiving the Truth</hi> in the love of it. But he cannot be
+ſavoury in his ſpirit, and rotten and unfound in his Judgement in a
+<hi>ſpiritual Truth,</hi> at leaſt ſo, as long to <hi>abide and continue
+in it,</hi> what ever he may for a fit, and <hi>in a Temptation</hi> be
+ſubject unto, as in <hi>any vice or enormity</hi> of practiſe; yet to abide
+in it, that he will not, no more then he will in the other. No, if he be right
+in <hi>Affection,</hi> he <hi>will accor<g ref="char:EOLhyphen"/>dingly be right in Opinion;</hi> and
+if <hi>he be not, he will not;</hi> but then he will recover himſelf again.
+Theſe diſtempers, they lye not in the <hi>Brain</hi> ſo much, as in the
+<hi>Heart;</hi> in the Heart <hi>originally,</hi> and in the Brain only
+<hi>ſymptomatically.</hi> By <hi>ſympathy</hi> and <hi>complication,</hi>
+you <pb n="24" facs="tcp:114971:15"/>know, as concernes the workings of the ſoul in a
+na<g ref="char:EOLhyphen"/>tural way, there may be ſometimes ſtrange fancies and conceits ariſing
+from ſome lighter melancholy and di<g ref="char:EOLhyphen"/>ſtemper of body; But where there are
+contradictions of reaſon and common ſenſe, it argues <hi>laeſa
+principia,</hi> ſome <hi>diſtraction or phrenetical humour.</hi> Even ſo
+here, in theſe ſpiritual improvements, men may perchance erre in lighter
+matters, through ignorance or non-at<g ref="char:EOLhyphen"/>tendency; but to erre in fundamentals, is
+an argument of ſome ſubſtantiall defect as to the work of Grace it
+ſelf.</p>
+            <p>There are two Reaſons eſpecially, why thoſe which are of
+<hi>falſe hearts,</hi> ſhould be of <hi>falſe judgements</hi> in
+Religion. The one is <hi>direct and immediate</hi> from the nature of the thing
+it ſelf, as the effect flowing from its proper and univocall cauſe. And the
+other <hi>occa<g ref="char:EOLhyphen"/>ſional and conſequential,</hi> as proceeding from the
+<hi>juſt Judgement of God,</hi> who becauſe they receive not the love of
+the Truth that they might be ſaved, <hi>therfore</hi> ſends them ſtrong
+deluſions that they ſhould believe lies. And thus ye ſee (as an
+improvement of this point) what great cauſe we every one have to make this
+work ſure to our ſelves; That we are indeed ſuch perſons, as in
+<hi>this ſenſe</hi> are born in <hi>Sion.</hi>
+            </p>
+            <p>Now further, where we prove to be ſo, we have great cauſe
+likewiſe to <hi>acknowledge</hi> it, and to bleſſe and praiſe God for
+it and the <hi>opportunities</hi> of it; as who hath pleaſed to deal ſo
+graciouſly with us, as <hi>herein he hath done.</hi> When all's done,
+<hi>this</hi> is the great mercy of <hi>all,</hi> and there's none like unto
+it. It is the <hi>original and fundamental</hi> Mercy, and which layes the
+ground for all the reſt. Look as it is in the <hi>world,</hi> all the
+<hi>conſequent comforts of it,</hi> they depend upon <hi>our Birth into
+it.</hi> 
+               <pb n="25" facs="tcp:114971:15"/>If we be ſtifled <hi>in the Birth,</hi> there's
+a period <hi>to all our worldly expectations,</hi> or the hopes of our Parents
+for us. Even ſo it is alſo in <hi>Religion;</hi> as to the
+<hi>comforts</hi> and ac<g ref="char:EOLhyphen"/>commodations of <hi>that; If we be not regenerate</hi>
+and born again, there's no hope for us <hi>at all;</hi> If we <hi>be</hi> ſo,
+we are then <hi>made for ever.</hi> This <hi>Regeneration</hi> it brings in
+many <hi>other comforts with it;</hi> Ability <hi>to ſerve God,</hi> Benefit
+of the Ordinances, improvement of all paſſages of Providence, the peace of
+conſcience and joy of the Holy Ghoſt, and Heaven and ſalvation at laſt.
+If we have any of theſe <hi>conſequent priviledges</hi> belonging to us as
+<hi>Chriſtians,</hi> it does depend upon this <hi>primitive mercy,</hi> that
+we are the <hi>children of God,</hi> adopted and regenerated <hi>by Him.</hi>
+Therefore let us bleſſe God for this above any thing elſe; and for all
+the means which have been <hi>tending and conducing</hi> to this graci<g ref="char:EOLhyphen"/>ous work
+in us. Let us think our ſelves <hi>ſo far born in Sion;</hi> not only as we
+are born in it <hi>locally,</hi> within the <hi>pales of the viſible
+Church,</hi> (which I ſpake of before) but alſo as we are born in it
+<hi>myſtically,</hi> that is, as Mem<g ref="char:EOLhyphen"/>bers of the Church which is inviſible;
+and have the true and genuine work of ſaving Grace wrought in our hearts.
+<hi>This</hi> is to be born in <hi>Sion,</hi> and <hi>this</hi> is to be born
+in <hi>London,</hi> indeed to be born in it <hi>thus: They</hi> are not only
+born in <hi>London,</hi> which are born within the <hi>Wals, and Suburbs, and
+Liberties;</hi> within the <hi>Freedome</hi> and compaſſe of the City, and
+here breath their firſt natural Breath; No, but which being <hi>born
+abroad</hi> though in <hi>remote and forein Countreys</hi> and Nations, are
+here <hi>partakers of the Efficacy of the Ordinances,</hi> and of the <hi>Power
+of the Goſpel</hi> upon their hearts. And they have cauſe for ever to
+<hi>bleſs God</hi> for ſuch a mercy vouch<g ref="char:EOLhyphen"/>ſafed unto them; theſe are
+the <hi>priviledges</hi> of the <pb n="26" facs="tcp:114971:16"/>City indeed more then any
+thing elſe. Whoſoever he be that <hi>God</hi> has been pleaſed to make
+<hi>this City</hi> in which we now are, to be an occaſion of his
+<hi>Regenera<g ref="char:EOLhyphen"/>tion and Converſion</hi> to himſelf; <hi>This City</hi> is the
+<hi>true place of his Nativity;</hi> though the place of his Birth into the
+<hi>world</hi> were perhaps many <hi>hundred miles</hi> off, though in
+<hi>Italy,</hi> in <hi>Turky,</hi> in <hi>India,</hi> though in the far<g ref="char:EOLhyphen"/>theſt
+and remoteſt places of all the earth. I will make mention of <hi>Rahab &amp;
+Babylon,</hi> among <hi>them that know me.</hi> They which were born at the
+<hi>lands end,</hi> they were born in the very Heart <hi>of the City,</hi> if
+it was <hi>thus</hi> with them. This to the <hi>praiſe of Gods grace,</hi>
+and to <hi>their own everlaſting comfort,</hi> is, and ſtill <hi>will</hi>
+be the condition of <hi>many</hi> an one at this time, and in this very place.
+<hi>There's many a poor youth</hi> which comes up hi<g ref="char:EOLhyphen"/>ther to the City from the
+<hi>furtheſt parts of the Nation,</hi> and from the blindeſt corners of the
+Land. <hi>All</hi> that <hi>he</hi> thinks of (or it may be <hi>his
+friends</hi> for him) is only to get him a <hi>Trade,</hi> to provide him a
+<hi>Maſter,</hi> to ſet him in ſome <hi>way of livelihood</hi> againſt
+another day. Oh but a <hi>gracious God</hi> has a <hi>further deſign</hi>
+upon him; not only to gain his <hi>Trade,</hi> but gain his <hi>Soul;</hi> not
+only to teach him ſome <hi>Art or Myſtery</hi> here in the world, but to
+teach him the Trade of <hi>Piety,</hi> the Art of <hi>Chriſtianity,</hi> the
+Myſtery of <hi>godlineſſe and Religion;</hi> not only to make him a
+<hi>Man,</hi> but to make him a <hi>Chriſtian,</hi> of the <hi>houſhold of
+God,</hi> of the <hi>company of Angels,</hi> a fellow Ci<g ref="char:EOLhyphen"/>tizen <hi>of the
+Saints,</hi> an Inhabitant <hi>of the new Jeruſa<g ref="char:EOLhyphen"/>lem,</hi> a <hi>free Denizen
+of Heaven it ſelf. This Man</hi> now he is born <hi>here, Here</hi> he is
+born. Let the place of his firſt coming into the world <hi>be where it will
+be.</hi> So that now (Beloved) <hi>upon this reckoning,</hi> we have a great
+many <hi>more Countreymen</hi> then we made account of. <pb n="27" facs="tcp:114971:16"/>And
+likewiſe again on the <hi>other ſide</hi> not ſo many, <hi>as we could
+deſire.</hi> If Birth be to be judged of <hi>by Grace</hi> and according to
+the <hi>firſt beginnings of Religion,</hi> there are many <hi>which owe very
+much</hi> to this City, the City of <hi>London</hi> of all other places, as
+wherein they firſt recei<g ref="char:EOLhyphen"/>ved ſuch impreſſions as theſe upon their
+hearts.</p>
+            <p>And accordingly, it becomes them to <hi>acknowledge</hi> it, and
+to be thankful for it. There are many unkinde, and unnatural, and ungrateful
+people in the world, which in <hi>this reſpect</hi> make but ill returnes to
+thoſe pla<g ref="char:EOLhyphen"/>ces and perſons which have been the <hi>means and
+inſtru<g ref="char:EOLhyphen"/>ments</hi> of doing them <hi>this ſpiritual good; Unchurch</hi>
+thoſe Churches wherein they firſt received heavenly in<g ref="char:EOLhyphen"/>ſtruction:
+<hi>Un-miniſter</hi> thoſe Miniſters, who <hi>firſt ac<g ref="char:EOLhyphen"/>quainted</hi>
+them with the waies of God. Now what an unſeemly, and unworthy a thing is
+this! How ill be<g ref="char:EOLhyphen"/>coming of thoſe who have been partakers of ſo great a
+benefit and bleſſing as <hi>this</hi> indeed is! Yea, how ill does it agree
+with <hi>that ſtate and condition of Chriſtiani<g ref="char:EOLhyphen"/>ty,</hi> whereunto they
+pretend! Certainly if they have any thing at all in Religion, <hi>here</hi>
+they had it: and if they be new-born <hi>at all,</hi> they were born <hi>here.
+Here</hi> was the womb that <hi>conceived</hi> them, the paps that
+<hi>ſuckt</hi> them, the immortal ſeed from whence they were born again,
+the <hi>ſpiritual Fathers</hi> which begat them in <hi>Chriſt Jeſus by
+the Goſpel.</hi> All which they have, it was <hi>here,</hi> that ſo
+<hi>here</hi> they may acknowledge the mercy, and re<g ref="char:EOLhyphen"/>turn the praiſe. But
+ſo much may ſuffice to have ſpoken of the firſt Emphaſis in this
+paſſage before us, as it may be laid upon the particle <hi>THERE.</hi> And
+ſo as an advancement of the <hi>perſon</hi> taken from the
+<hi>PLACE.</hi>
+            </p>
+            <p>
+               <pb n="28" facs="tcp:114971:17"/>
+               <note place="margin">The Emphaſis upon
+THIS.</note>The <hi>ſecond</hi> is by laying it upon <hi>THIS;</hi> and ſo
+it is an advancement of the <hi>place</hi> taken from the <hi>perſon.</hi> It
+is made the Honour and Dignity of <hi>Sion,</hi> that is, of the true Church of
+God; To <hi>have ſuch and ſuch</hi> born in it. <hi>This and that Man</hi>
+was born in <hi>her.</hi> There are two things ſignified in this
+expreſſion, as Branches of this Honour; The one is the <hi>Quality</hi> of
+the perſons; and the other is the <hi>Number</hi> of them. For the
+<hi>Quali<g ref="char:EOLhyphen"/>ty</hi> of them, <hi>This.</hi> For the <hi>Number</hi> of them,
+<hi>This and That.</hi> To have <hi>both</hi> of theſe born in <hi>Sion.</hi>
+Perſons of <hi>note and eminency.</hi> And a <hi>multitude and plurality</hi>
+of ſuch perſons. This is a part of that Dignity and Re<g ref="char:EOLhyphen"/>nown which belongs
+unto it. And it is <hi>ſo</hi> to <hi>Sion</hi> in each conſideration of
+it, whether we take it <hi>Myſtically</hi> or <hi>Locally.</hi> For the
+Church in General, or for <hi>this</hi> Church and City in Particular.</p>
+            <p>Firſt, Take it for <hi>Sion Myſtically, i. e.</hi> the Church
+in General; As it is an honour to it to <hi>bring forth,</hi> not to be
+<hi>abſolutely barren,</hi> or deſtitute of children; but to have
+<hi>perſons to be born in it:</hi> ſo it is firſt of all an honour to
+have born in it perſons of <hi>note,</hi> ſuch per<g ref="char:EOLhyphen"/>ſons as are
+<hi>eminent</hi> in the moſt <hi>deſirable Qualifications.</hi> This is
+<hi>one</hi> thing which is remarkable about it. <hi>This</hi> man was born in
+<hi>Her:</hi> there is an Emphaſis both in the <hi>Pronoun</hi> and in the
+<hi>Noun;</hi> in <hi>this,</hi> and in this <hi>Man;</hi> and that as
+inlarging the Dignity of it.</p>
+            <p>Firſt for the Pronoun, <hi>This;</hi> this indefinite
+Expreſ<g ref="char:EOLhyphen"/>ſion is of a different ſignification: ſometimes it is <hi>uſed
+reproachfully,</hi> and by way of <hi>diſdain;</hi> they that abhor the
+<hi>perſon,</hi> do commonly abhor the <hi>name</hi> with it. Thus the Jewes
+when they ſpeak of Chriſt, not name him, but in ſcorn, <hi>That Man.</hi>
+               <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> And ſo in the 
+<pb n="29" facs="tcp:114971:17"/>
+               <hi>Goſpel,</hi>
+               <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, where is He? as if he were not
+worthy to be named. Sometimes <hi>demonſtratively</hi> and by way of
+<hi>ſuppoſition.</hi> As the Spouſe in the Canticles to the watchmen; Saw
+ye <hi>him</hi> whom my ſoul loveth? as ſuppoſing they muſt needs know
+whom ſhe looked for. And ſo <hi>Mary</hi> to Chriſt, ſuppoſing him to
+be the Gar<g ref="char:EOLhyphen"/>dener, Sir, if thou haſt taken <hi>him</hi> away hence, &amp;c.
+Joh. 20.15. <hi>Him,</hi> as taking it for granted, that the perſon ſhe
+ſpake of was underſtood. Sometimes again <hi>reſpectfully,</hi> and by
+way of <hi>eminency,</hi> ſo Cant. 1.2. And ſo here in the Text.
+<hi>This,</hi> that is, this eminent perſon.</p>
+            <p>And ſo for the Noun, <hi>Man:</hi> The Hebrew word
+<gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> which is here uſed for a man,
+except qualified by ſome other word as <hi>joyned</hi> with it, ſignifies a
+man of <hi>worth,</hi> not a <hi>common</hi> or ordinary perſon. The Church
+it brings forth ſuch as theſe, <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> Men of Re<g ref="char:EOLhyphen"/>nown, <hi>famous and eminent</hi> men; and that in
+<hi>all kinde</hi> of perfections, whether natural, or civil, or ſpiritual,
+men of parts, or men of power, or men of <hi>piety.</hi> There are
+<hi>thoſe</hi> in all theſe excellencies, which have been and ſtill are
+born in Her.</p>
+            <p n="1">
+               <note place="margin">1 This <hi>lear<g ref="char:EOLhyphen"/>ned</hi>
+Man.</note>Firſt, Take it either for <hi>Natural</hi> or <hi>Acquired</hi>
+abili<g ref="char:EOLhyphen"/>ties, Men of parts, and knowledge, and wiſdome, and improved
+underſtandings; the Church is not without <hi>theſe.</hi> This Man, <hi>i.
+e.</hi> This <hi>learned Man,</hi> or this <hi>wiſe Man was born in
+Sion;</hi> All are not Idiots which are Chriſtians: No, but there are ſome
+of very rare and admirable accompliſhments in all kindes and pieces of
+learning, and ſecular knowledge, which are graciouſly qualified. There's
+<hi>Paul</hi> with his Parchments, as well as <hi>Peter</hi> with his Fiſhers
+Net. Indeed there are many vain perſons, who think that wiſdome muſt dye
+with <pb n="30" facs="tcp:114971:18"/>them; and adjudge all to Duncery, which make any
+pretence to <hi>Religion;</hi> As others all to <hi>profaneneſſe</hi> which
+make any profeſſion of <hi>Learning;</hi> think that men cannot be godly
+and learned, or wiſe both at once; but this is a meer Fancy and conceit, and
+<hi>miſtake</hi> of their own. Theſe two they are not <hi>inconſiſtent,
+but may very well hit and hold together,</hi> yea, <hi>and do:</hi> though they
+often miſſe and do <hi>otherwiſe.</hi> It is not. Not, <hi>any</hi>
+wiſe men; but, <hi>not many</hi> after the fleſh are called, 1 Cor. 1.26.
+There's the Counſellor and the Orator, Eſai. 3.3.</p>
+            <p n="2">
+               <note place="margin">2. This <hi>Potent</hi> man.</note>So
+alſo, ſecondly, Take it for civil or ſecular Qua<g ref="char:EOLhyphen"/>lifications: Men of
+Dignity, and Power, and Eſtate, <hi>This Man, i. e. This honourable Man.</hi>
+               <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> Eminent in Countenance, as he is
+called Eſai. 3.2. <hi>He</hi> is likewiſe born in <hi>Sion; The mighty
+Man,</hi> and the <hi>Man of War.</hi> The <hi>Syriack</hi> Interpreter was
+ſo far ſen<g ref="char:EOLhyphen"/>ſible <hi>of this,</hi> as that <hi>he</hi> expreſſes it
+in the very <hi>Text:</hi> &amp; therefore in ſtead of ſaying,
+<hi>This</hi> man was born there, he ſaies, A <hi>Potent man</hi> was born
+there, <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and <hi>he</hi> has
+eſtabliſht it, whereby (as I conceive) he takes in the word
+<hi>Higheſt,</hi> which followes afterwards in the verſe, and refers it
+here to this place; and ſo the Scripture ſets it in other places beſides:
+<hi>Kings</hi> ſhall ſee and ariſe, <hi>Princes</hi> alſo ſhall
+worſhip, &amp;c. Eſai. 49.7. And again, <hi>The Kings of Tarſhiſh</hi>
+and of the Iſles ſhall bring preſents: the Kings of <hi>Sheba</hi> and
+<hi>Seba</hi> ſhall of<g ref="char:EOLhyphen"/>fer gifis, Pſal. 72.10. And again, the <hi>Chaldee
+Para<g ref="char:EOLhyphen"/>phraſt</hi> in the Text, <hi>This King</hi> was born there,
+under<g ref="char:EOLhyphen"/>ſtanding thereby <hi>Solomon,</hi> as moſt conceive and ap<g ref="char:EOLhyphen"/>prehend
+it. Indeed theſe great and potent men have not the greateſt name for
+Religion for the moſt part. <hi>Not <pb n="31" facs="tcp:114971:18"/>many mighty, not many
+noble are called.</hi> But yet <hi>ſome</hi> there are, and through Gods
+goodneſſe inſtances of it, ſuch as <hi>theſe born in Sion;</hi> Men
+of <hi>power, and place, and authority and nobility,</hi> and the like.
+<hi>This</hi> man was born there.</p>
+            <p n="3">
+               <note place="margin">3. This <hi>Godly</hi>
+man.</note>Thirdly, Take it for <hi>ſpirituals,</hi> and for <hi>theſe
+accom<g ref="char:EOLhyphen"/>pliſhments</hi> eſpecially; <hi>This Man, i. e.</hi> This <hi>godly
+Man,</hi> this is that which is moſt <hi>proper</hi> and
+<hi>eſſential</hi> to <hi>Sion,</hi> and to the <hi>being born</hi> in it:
+yea, it is that which <hi>makes Sion</hi> it ſelf, in the ſenſe <hi>we
+now</hi> take it. It is the higheſt perfection of it, and the greateſt
+commendation <hi>to</hi> it of any thing elſe. This is the great honour of
+the <hi>Church,</hi> that it formes men to ſuch <hi>qualities</hi> and
+<hi>diſ<g ref="char:EOLhyphen"/>poſitions</hi> as thoſe are, which no other place does
+be<g ref="char:EOLhyphen"/>ſides. It is not all the Schools of the <hi>Philoſophers;</hi> The
+<hi>Stoa, or Academy, or Lycaeum</hi> (though they alſo have their uſe and
+ſeaſonable improvement) which are able to ſend forth ſuch a man as
+<hi>Sion</hi> does; ſo qual fied, and adorned, and beautified, eſpecially
+in his inward parts. As for <hi>other places,</hi> and ſuch as thoſe which
+I now mentioned; they may perhaps now and then reach to ſome <hi>other
+principles;</hi> and thoſe likewiſe very glori<g ref="char:EOLhyphen"/>ous in the eyes of the
+<hi>world,</hi> morality, and civility, and ingenuity, and ſmoothneſſe of
+behaviour: The <hi>School of Nature</hi> and common reaſon, may ſometimes
+come up to theſe, and that in a very great meaſure: yea, but now go a
+little higher, to brokened<g ref="char:EOLhyphen"/>neſſe of heart, to ſelf-denial, to love of
+enemies, to cloſing with Chriſt, the frame and ſpirit of the Goſpel;
+this is to be found no where but only in <hi>Sion.</hi> And here <hi>it is.
+THIS MAN</hi> was born <hi>THERE.</hi>
+            </p>
+            <p>
+               <pb n="32" facs="tcp:114971:19"/>
+               <note place="margin">
+                  <hi>This</hi> in the
+<hi>Amplification.</hi>
+               </note>Now this will further take an
+<hi>advancement</hi> and <hi>am<g ref="char:EOLhyphen"/>plification</hi> of it: not only by
+conſidering this <hi>man,</hi> what he is <hi>now,</hi> but what he was
+<hi>once,</hi> which is alſo intimated in the <hi>Text:</hi> Behold
+<hi>Philiſtia,</hi> and <hi>Tyre,</hi> and <hi>Ethiopia; This</hi> man was
+born there. Here's the excel<g ref="char:EOLhyphen"/>lency of the Ordinances, and that Power and
+Energie which is ſtirring in the Church of <hi>Chriſt;</hi> that it is able
+to work ſuch a miraculous alteration <hi>as this:</hi> to bring men from
+darkneſſe to light, from Satan to God, from a ſtate of ſin and
+corruption and unrege<g ref="char:EOLhyphen"/>neracy, to a ſtate of Grace, and Holineſſe, and
+Rege<g ref="char:EOLhyphen"/>neration: yea, from the loweſt degree of the <hi>one,</hi> to the
+higheſt degree of the <hi>other.</hi> That <hi>Philiſtia</hi> ſhould turn
+into <hi>Paleſtina; Tyre</hi> into <hi>Jeruſalem; Ethiopia</hi> into
+<hi>Judaea;</hi> here's the wonder of all. The reconciling of theſe two
+oppoſite termes thus both together. That Princes ſhould come out of
+<hi>Egypt,</hi> and that <hi>Ethiopia</hi> ſhould ſtretch out her hands to
+God, as it is Pſal. 68.31. That the <hi>Blackmore</hi> ſhould change his
+skin, and that the <hi>Leopard</hi> ſhould change his ſpots. And that
+<hi>this Ethiopian</hi> ſhould become <hi>this Chriſtian;</hi> that he
+which was born <hi>there,</hi> ſhould be born <hi>here.</hi>
+            </p>
+            <p>There are ſome which have underſtood this place here in the
+Text concerning the <hi>Ethiopian Eunuch</hi> (mentioned in the 8. of the Acts,
+and whom I mentio<g ref="char:EOLhyphen"/>ned in the beginning of the Sermon) as if this paſſage
+here before us were ſpoken <hi>Prophetically</hi> of <hi>him.</hi> But I
+conceive <hi>that</hi> to be a little too narrow an Interpre<g ref="char:EOLhyphen"/>tation, and a
+little too much forced. I rather take it more general and at large, as relating
+to all kinde of ſinners whoſoever they be; yea the worſt that are, as
+reduced by the power of the Goſpel, and the mediati<g ref="char:EOLhyphen"/>on of the Ordinances of
+the Church, as ſometimes <pb n="33" facs="tcp:114971:19"/>through the goodneſſe of God
+it happens to be. And that's the firſt thing here conſiderable in the
+children of <hi>Sion;</hi> to wit, the <hi>quality</hi> of the perſons
+expreſt in <hi>this</hi> man.</p>
+            <p n="2">
+               <note place="margin">2. The Digni<g ref="char:EOLhyphen"/>ty of
+<hi>number.</hi>
+               </note>The ſecond is the Number or plurality. <hi>This and
+that man</hi> &amp;c. And there are three things again here. For <hi>this</hi>
+man only to be born <hi>there,</hi> there had been no great matter in
+<hi>that;</hi> one Swallow does not make a Summer; and there is not the
+plaineſt or meaneſt place that is, but may chance to have one eminent man
+to be born in it. In <hi>this,</hi> Firſt, Variety. Second<g ref="char:EOLhyphen"/>ly, Indifferency.
+And thirdly, Succeſſion. 1. Variety, This and that man, <hi>i. e. That</hi>
+man <hi>with</hi> this. 2. Indif<g ref="char:EOLhyphen"/>ferency, This and that man, <hi>i. e.</hi>
+That man as <hi>well</hi> as this. 3. Succeſſion, This and <hi>that</hi>
+man, <hi>i. e.</hi> That man <hi>after</hi> this; the one <hi>following and
+ſucceeding</hi> to the other.</p>
+            <p n="1">
+               <note place="margin">1. Variety.</note>Firſt,
+<hi>Variety.</hi> 
+               <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> A man and a
+man, <hi>i. e. many</hi> men: Repetition, it does denote <hi>multitude</hi> in
+the ordinary ſignification of it. And ſo here. The Church is a
+<hi>fruitful</hi> Mother, and has the honour of <hi>many</hi> emi<g ref="char:EOLhyphen"/>nent children
+to be born of her: Many, in the Mul<g ref="char:EOLhyphen"/>titude of <hi>perſons,</hi> both men and
+women; and many in the multitude of <hi>Nations,</hi> both Jewes and Gentiles:
+There's a <hi>Plurality and a Variety</hi> of both: And ſo the <hi>Scripture
+declares</hi> unto us at large in ſundry places of it: in Act. 2.41. we finde
+how at <hi>one Sermon of Pe<g ref="char:EOLhyphen"/>ters,</hi> there were <hi>three thouſand</hi>
+which were <hi>born at once;</hi> and Act 5.14. After that <hi>Peter</hi> and
+the reſt had been reſtrain'd, it is ſaid, That Beleevers were <hi>the
+more</hi> ad<g ref="char:EOLhyphen"/>ded to the Lord; even <hi>multitudes</hi> both of Men and Women:
+This for the Multitude of the <hi>perſons.</hi> And ſo for the multitude of
+the <hi>Nations, Sion Myſtical</hi> 
+               <pb n="34" facs="tcp:114971:20"/>is <hi>inlarged</hi>
+beyond <hi>Sion Local;</hi> And it is not only a multitude of <hi>Jewes,</hi>
+but alſo of <hi>Gentiles,</hi> which is here intended, as alſo elſewhere
+expreſt: in Eſai. 2.2. The Mountain of the Lords Houſe ſhall be
+eſtabliſhed &amp;c. <hi>And all Nations</hi> ſhall flow unto it; yea and
+theſe too in <hi>great multitudes:</hi> as we may ſee further in Eſai.
+60.4,5,6,7. Lift up thine eyes round about and ſee; <hi>All they</hi> gather
+themſelves together &amp;c. And, then thou ſhalt ſee and flow together,
+and thine heart ſhall fear, and be inlarged, becauſe the <hi>abundance</hi>
+of the Sea ſhall be converted unto thee, and the <hi>forces</hi> or
+<hi>riches</hi> of the Gentiles ſhall come unto thee: And ſo Eſai.
+54.1,2,3. Sing O barren, thou that didſt not bear; break forth into ſinging
+and cry aloud, thou that didſt not travel with childe; for <hi>more</hi> are
+the <hi>children of the deſolate,</hi> then the children of the marryed wife,
+ſaith the Lord, <hi>Enlarge the place of thy Tents,</hi> and let them
+<hi>ſtretch forth the curtains of thine habitations: ſpare not</hi> &amp;c.
+Thus now <hi>Elijahs</hi> fear is at <hi>an end,</hi> of being left alone in
+the ſervice of God; as ſometimes he thought he <hi>was.</hi> There's no
+danger of that at all; though indeed there be not ſuch multitudes and flocks
+as there are of the other party of thoſe which are wicked and impious: yet
+great <hi>multitudes and varieties there are</hi> for our comfort and
+incouragement: as we have it expreſt by the <hi>Angel,</hi> in Revel. 7.9.
+And after this I beheld, and loe a <hi>great Multitude,</hi> which no man could
+number, of all Nations and kindreds, and people, and tongues ſtood before the
+Throne, and before the Lamb, cloathed with white robes and palms in their
+hands: that's the firſt intimation; <hi>Variety,</hi> This and that
+<hi>&amp;c.</hi>
+            </p>
+            <p n="2">
+               <pb n="35" facs="tcp:114971:20"/>
+               <note place="margin">2.
+Indifferen<g ref="char:EOLhyphen"/>cy.</note>The ſecond is <hi>Indifferency,</hi> This and that Man,
+<hi>i. e.</hi> That man as <hi>well</hi> as this; taking it
+<hi>promiſcuouſly.</hi> There's no condition either of <hi>perſon</hi> or
+<hi>nation</hi> which excludes <hi>from Grace;</hi> but it is very well
+agreeable to all; to <hi>high and low, rich and poor, learned and
+un<g ref="char:EOLhyphen"/>learned;</hi> as we which are <hi>Miniſters</hi> are <hi>debtors to
+all;</hi> to the <hi>Greeks and to the Barbarians,</hi> to the <hi>wiſe and
+to the un-wiſe;</hi> ſo is our Miniſtery <hi>belonging</hi> to all, for
+the <hi>comfort and efficacy</hi> of it; to all <hi>particular
+condi<g ref="char:EOLhyphen"/>tions,</hi> though not to all <hi>Individual perſons:</hi> There's no
+<hi>rank or order of men</hi> whatſoever which in it ſelf is un<g ref="char:EOLhyphen"/>capable of
+ſalvation: nay even <hi>that</hi> which in the <hi>eyes of the world</hi>
+ſeems to be <hi>fartheſt from</hi> it, is <hi>indeed</hi> nea<g ref="char:EOLhyphen"/>reſt
+<hi>to</hi> it: The <hi>meaner</hi> that any are in <hi>outward</hi>
+re<g ref="char:EOLhyphen"/>ſpects, the likelier they are in <hi>ſpirituals,</hi> and the
+re<g ref="char:EOLhyphen"/>ſpects of Religion. To the <hi>poor</hi> the Goſpel is preach<g ref="char:EOLhyphen"/>ed. And
+God hath choſen the <hi>poor in this world,</hi> rich in Faith, and heirs of
+the Kingdome; that ſo we may learn not to deſpiſe the meaneſt
+Chriſtians. If we be ſuch as are born <hi>of God:</hi> the <hi>pooreſt
+Saints</hi> are <hi>our Bre<g ref="char:EOLhyphen"/>thren,</hi> as well as the richeſt; And if we be
+ſuch as are born <hi>in Sion</hi> the meaneſt Chriſtians are <hi>our
+Countrey<g ref="char:EOLhyphen"/>men,</hi> as well as the <hi>Greateſt.</hi> This and that man, that
+is, <hi>This</hi> man as <hi>well</hi> as <hi>that.</hi> That's the
+<hi>ſecond</hi> thing, <hi>In<g ref="char:EOLhyphen"/>differency.</hi>
+            </p>
+            <p n="3">
+               <note place="margin">3. Succeſſion.</note>The third thing
+here intimated, is <hi>Succeſsion. This and that man, i. e.</hi>
+That man <hi>after</hi> this. The <hi>chil<g ref="char:EOLhyphen"/>dren of Sion,</hi> they are not only
+for <hi>one</hi> Generation, but likewiſe for <hi>many following</hi> one
+upon another. This is <hi>that</hi> which God has ordined <hi>for his
+Church,</hi> that it ſhall have <hi>an Holy ſeed, and poſterity, and
+conti<g ref="char:EOLhyphen"/>nuance</hi> to the worlds end; As long as the <hi>world</hi> laſts, the
+<hi>Church</hi> ſhall laſt; becauſe the <hi>world</hi> does laſt but
+<hi>for</hi> 
+               <pb n="36" facs="tcp:114971:21"/>the Church. If <hi>this</hi> and <hi>that</hi>
+man were but <hi>born,</hi> that is, <hi>the Jewes call'd,</hi> and <hi>the
+fulneſſe of the Gentiles come in,</hi> and <hi>the number of the Elect
+accompliſht;</hi> the <hi>world</hi> might then <hi>ſhift for it
+ſelf,</hi> and the date and pe<g ref="char:EOLhyphen"/>riod of it <hi>would then ſoon be
+expired.</hi> All Gods care is for <hi>his people,</hi> and for his
+<hi>Elect</hi> to preſerve <hi>them,</hi> that none of <hi>them</hi> might
+periſh but that <hi>they</hi> might <hi>all</hi> come to repentance; by being
+made partakers of the <hi>means of Grace,</hi> as the <hi>Apoſtle Peter</hi>
+intimates;<note place="margin">2 <hi>Pet.</hi> 3.9.</note> for which cauſe he
+<hi>keeps up the world,</hi> yea and <hi>will</hi> keep it up <hi>ſtill,</hi>
+till this be <hi>effected.</hi> The fulneſſe of the <hi>Church,</hi> it is
+the <hi>fulneſſe of Chriſt</hi> Himſelf, <hi>who filleth all in
+all;</hi> as the Apoſtle <hi>Paul</hi> alſo ſignifies in Epheſ. 1.23.
+And God will be <hi>ſure</hi> to look to <hi>that;</hi> that
+<hi>Chriſt</hi> may be a <hi>compleat Head,</hi> with <hi>all his
+Members</hi> united unto him. Now <hi>Succeſsion</hi> it makes for
+<hi>this,</hi> which accordingly is here <hi>exhibited to us,</hi> in this
+preſent ex<g ref="char:EOLhyphen"/>preſſion: as it is alſo in ſome other Scriptures, Their
+<hi>ſeed</hi> ſhall be known among the Gentiles and their off<g ref="char:EOLhyphen"/>ſpring,
+<hi>&amp;c.</hi> Eſai. 62.9. Now in <hi>order hereunto,</hi> does God
+proportion <hi>every thing</hi> elſe. As,</p>
+            <p n="1">
+               <note place="margin">1. The Gifts of the
+Mini<g ref="char:EOLhyphen"/>ſters.</note>Firſt, In the <hi>Gifts of his Miniſters,</hi> and his
+gracious aſſiſtance of <hi>them</hi> from time to time; <hi>Loe, I am
+with you alway, even to the end of the world,</hi> ſayes <hi>Chriſt</hi> to
+his <hi>Diſciples,</hi> when he was <hi>now going away from them; This</hi>
+could not be underſtood of their <hi>perſons;</hi> it muſt be
+underſtood of their <hi>Office,</hi> and Work, and Miniſtery; I am now with
+your ſelves by <hi>my preſence,</hi> ſo long as I <hi>continue</hi> with
+you; and <hi>will</hi> be <hi>with you</hi> alſo by my <hi>Spirit</hi> ſo
+long as <hi>you your ſelves</hi> ſhall continue; and when you are once gone
+out of the <hi>world,</hi> I will not then leave or forſake my
+<hi>Church,</hi> but I will be with you in thoſe that <hi>come after
+you,</hi> and that ſtand up in <pb n="37" facs="tcp:114971:21"/>your <hi>room:</hi> ſo
+Epheſ. 4.12. for the perfecting of the Saints, for the work of the
+Miniſtery, for the edifying of the Body of Chriſt.</p>
+            <p n="2">
+               <note place="margin">2. Continua<g ref="char:EOLhyphen"/>tion of
+Ordinances.</note>Secondly, In the <hi>continuation of the Ordinances,</hi> and
+the means of Grace themſelves: There ſhall be <hi>Succeſ<g ref="char:EOLhyphen"/>ſively</hi>
+ſome <hi>born in Sion;</hi> becauſe there ſhall be from time to time a
+<hi>Diſpenſation of the Word</hi> and Sacra<g ref="char:EOLhyphen"/>ments for the furtherance of
+this ſpiritual birth in us. <hi>The Word of God,</hi> it muſt have
+<hi>effect</hi> in ſome conſci<g ref="char:EOLhyphen"/>ences or other, and ſhall not return
+<hi>to him in vain,</hi> as the Prophet <hi>Eſay</hi> ſpeaks, Eſai.
+55.10,11. Though to <hi>ſome</hi> it be no more then as the ſavour of death
+unto death; yet to others it ſhall prove really the ſavour of life unto
+life. And there ſhall <hi>ſome good or other</hi> be wrought by it,
+<hi>ſome converted</hi> and brought home unto <hi>God.</hi> Look as whiles
+the <hi>earth remains,</hi> ſeed-time and harveſt, and cold and heat, and
+ſummer and winter, and day and night ſhall not ceaſe: as was promi<g ref="char:EOLhyphen"/>ſed
+by God to <hi>Noah,</hi> Gen. 8.22. The ſame ſhall be obſerved likewiſe
+proportionably as to <hi>ſpirituals</hi> and the <hi>ſeaſons of
+Grace;</hi> there ſhall be no <hi>failing or in<g ref="char:EOLhyphen"/>termiſſion</hi> of them
+in any Time or Age of the world.</p>
+            <p n="3">
+               <note place="margin">3. Perpetuity of Graces.</note>Thirdly,
+This Succeſſion is further made up from the <hi>continued gracious
+influences of the Spirit of Chriſt:</hi> not only in his <hi>common
+gifts</hi> of the Miniſtery, (which we ſpake of before) but alſo in his
+<hi>ſaving and ſancti<g ref="char:EOLhyphen"/>fying Graces,</hi> which he does daily <hi>pour forth
+in his Church</hi> for the inlargement and increaſe of it: thus Epheſ. 4.7.
+Unto every one of us is given <hi>Grace:</hi> according to the <hi>meaſure of
+the Gift of Chriſt.</hi> And Joh. 1.16. Of his fulneſſe have we all
+received; and <hi>Grace for Grace;</hi> Anſwerable to the <hi>Grace in
+Chriſt <pb n="38" facs="tcp:114971:22"/>himſelf</hi> is there diſpens'd Grace to all
+his <hi>E<g ref="char:EOLhyphen"/>lect.</hi>
+            </p>
+            <p n="1">
+               <note place="margin">Uſe. 1. Com<g ref="char:EOLhyphen"/>fort.</note>
+               <hi>Theſe
+things thus laid together</hi> make much for <hi>our comfort and
+incouragement.</hi> To conſider that the <hi>Church</hi> is not confined to a
+<hi>few perſons or number of years;</hi> but does abide to <hi>all
+ſucceeding Generations.</hi> Which if <hi>we</hi> have any <hi>ſpiritual
+ſenſe</hi> or feeling in us, we cannot but be very <hi>much pleaſed</hi>
+and affected withall: yea, and it will make us likewiſe to <hi>endeavour</hi>
+it for <hi>our own par<g ref="char:EOLhyphen"/>ticulars;</hi> not only to take care that <hi>we</hi>
+may make up <hi>ſo many parts of</hi> Sion, <hi>whiles we live our
+ſelves;</hi> but that <hi>thoſe</hi> which come <hi>after</hi> us, may do
+ſo too for <hi>our</hi> ſakes, and by <hi>our procurement.</hi> Our
+<hi>children, and our childrens children and their children,</hi> in the
+ſucceſ<g ref="char:EOLhyphen"/>ſion of Ages. <hi>Et nati natorum, &amp; qui naſcuntur ab
+illis,</hi> As <hi>Paul</hi> to <hi>Timothy,</hi>
+               <note place="margin">2. Tim.
+1.5.</note> The Faith which dwelt firſt in thy Grandmother Lois, and in thy
+Mother Eunice, and I am perſwaded that in thee alſo. It is a
+buſineſſe worthy our undertaking. 
+<note place="margin">2. Excitement.</note>And accordingly we ſhould
+be <hi>perſwaded to it, and heartned in it,</hi> according to the
+<hi>ſeveral opportunittes</hi> which God in his providence af<g ref="char:EOLhyphen"/>fords unto us;
+<hi>Miniſters</hi> in the <hi>Inſtruction of our peo<g ref="char:EOLhyphen"/>ple; Parents</hi> and
+<hi>Maſters</hi> of our Families; Chriſtian <hi>friends and
+acquaintance</hi> in the <hi>mutual excitement one of another,</hi> to be ſo
+many bleſſed Inſtruments of be<g ref="char:EOLhyphen"/>getting others to God, and thereby
+propagating of <hi>his Church</hi> from time to time, as every one hath
+<hi>re<g ref="char:EOLhyphen"/>ceived the Gift,</hi> ſo miniſtring the ſame to one ano<g ref="char:EOLhyphen"/>ther; as
+<hi>good Stewards of the manifold Grace of God,</hi> 1 Pet 4.10.</p>
+            <p n="1">
+               <note place="margin">1 In General.</note>Alas! <hi>We</hi> are
+here but for <hi>a while,</hi> even the <hi>longeſt-lived</hi> amongſt us:
+And the <hi>Church</hi> as conſidered in <hi>our</hi> Age, is but of
+<hi>ſhort and ſmall continuance;</hi> Oh <pb n="39" facs="tcp:114971:22"/>what a comfort
+will it then be to us to think, that when we are <hi>dead and gone and in our
+graves,</hi> there ſhall be <hi>thoſe ſtanding up in our ſteads</hi>
+which ſhall con<g ref="char:EOLhyphen"/>tinue Religion after us; and ſo much the rather upon
+<hi>our account!</hi> it will be comfortable in <hi>death;</hi> and it will be
+comfortable <hi>after</hi> death likewiſe, when we <hi>come to Heaven it
+ſelf.</hi> Not only to meet with a <hi>glorious Church there,</hi> in its
+perfection and accompliſhment: but likewiſe to think that there's a
+<hi>gracious Church</hi> al<g ref="char:EOLhyphen"/>ſo <hi>here,</hi> in the beginnings and
+inchoations of it; and eſpecially that <hi>we our ſelves have any
+thing</hi> contri<g ref="char:EOLhyphen"/>buted <hi>to</hi> it.</p>
+            <p n="1">
+               <note place="margin">1. In our par<g ref="char:EOLhyphen"/>ticular
+relati<g ref="char:EOLhyphen"/>ons.</note>More particularly; we ſhould indevour it in the cities and
+places in which we live; and the bounds of our particular habitations; as in
+<hi>England,</hi> ſo eſpeci<g ref="char:EOLhyphen"/>ally <hi>in London in a peculiar manner.</hi>
+Let it never be ſaid for <hi>ſhame,</hi> that Religion failed <hi>in our
+time,</hi> or that <hi>we</hi> were the <hi>firſt corrupters or betrayers of
+it;</hi> No, but let us earneſtly contend <hi>for the faith which was once
+de<g ref="char:EOLhyphen"/>livered to the Saints;</hi> and that bleſſed Doctrine of Truth which has
+been tranſmitted to us by our An<g ref="char:EOLhyphen"/>ceſtors, and ſealed by the bloud of the
+Martyrs, and improved by the holy lives of thoſe godly perſons which have
+conform'd unto it, let the ſame be handed down ſtill by us to ſucceeding
+poſterity. We ſee how carefull we are in other matters to provide for after
+times; in building of houſes, in ſetting of plants; in preparing of works
+and contrivances; and how much rather ſhould we then be thus carefull in
+<hi>ſpiritual things!</hi> That ſuch <hi>holy men</hi> as are gone before
+us, may never <hi>die whiles we live;</hi> And that we our ſelves may
+<hi>ne<g ref="char:EOLhyphen"/>ver die</hi> ſo long as ſuch and ſuch live whom we have la<g ref="char:EOLhyphen"/>boured
+to <hi>ſeaſon with thoſe principles</hi> which we are <pb n="40" facs="tcp:114971:23"/>partakers of our ſelves. What a blemiſh and ſtain will that be
+to us to all generations, if either we ſhall degenerate from the good
+examples which others have ſet us; or elſe ſet ſuch examples to others,
+as whence they alſo ſhall degenerate from the holy lives of both their and
+our progenitors and predeceſſors! Let us therefore be watchfull in this
+particular. That's the ſecond branch of honour whence the Church is here
+commended to us in regard of her children, and the people which are born in
+her. As from their con<g ref="char:EOLhyphen"/>dition and quality, <hi>This Man;</hi> ſo from their
+number and plurality, This and That; In variety, in indifferen<g ref="char:EOLhyphen"/>cy, in
+ſucceſſion; and thus taking it of <hi>Sion Myſtically,</hi> is it a
+dignity and honour to it, to have this and that man <hi>born</hi> in it.</p>
+            <p n="2">
+               <note place="margin">2. Locally.</note>Secondly, Take it
+<hi>Locally,</hi> for this <hi>particular Church or City.</hi> For
+<hi>Sion</hi> in the <hi>Reſtriction.</hi> And it is an ho<g ref="char:EOLhyphen"/>nour to it ſo
+likewiſe; Vertuous and eminent perſons they are a ſingular credit and
+ornament to thoſe pla<g ref="char:EOLhyphen"/>ces in which they were born: <hi>This and that Man was
+born in Sion;</hi> it is ſpoken of her in a way of <hi>commen<g ref="char:EOLhyphen"/>dation,</hi>
+and to advance the Dignity of her, in the notion of ſuch a place as
+<hi>that</hi> was. Thus it has alwaies been eſteemed, and that even
+ſometimes amongſt the Hea<g ref="char:EOLhyphen"/>then themſelves. Their Worthies have been an
+honour to their Countreyes; Thus was <hi>Solon</hi> to <hi>Athens,</hi> and
+<hi>Pindarus</hi> to <hi>Thebes,</hi> and <hi>Tully</hi> to <hi>Rome.
+Homer,</hi> he had <hi>ſeven Cities</hi> which contended for him as the
+places of of his Nativity: And <hi>Scotus</hi> the great Schoolman, had
+<hi>three Nations,</hi> which all ſtrove for his Birth: <hi>Eng<g ref="char:EOLhyphen"/>land,
+Scotland,</hi> and <hi>Ireland:</hi> ſo great a matter is it to have men of
+note and eminency to be born in ſuch and ſuch a Countrey. What do I ſpeak
+of theſe? <pb n="41" facs="tcp:114971:23"/>This was that which made <hi>Bethlehem,</hi>
+which was the leaſt, yet <hi>not</hi> to be the leaſt among the Princes of
+<hi>Ju<g ref="char:EOLhyphen"/>dah;</hi> the Prophet <hi>Micah</hi> cals it the <hi>leaſt;</hi> the
+Evan<g ref="char:EOLhyphen"/>geliſt <hi>Matthew</hi> cals it <hi>not the leaſt</hi> how do theſe
+two agree? The Reconciliation is eaſie; Leaſt in <hi>it ſelf; not</hi>
+leaſt in regard of the <hi>Perſon</hi> which was born in it, and that was
+<hi>Chriſt himſelf,</hi> which <hi>ſome</hi> alſo apply here to <hi>our
+Sion,</hi> and underſtand by this <hi>indefinite ex<g ref="char:EOLhyphen"/>preſsion</hi> here in
+the <hi>Text: This Man</hi> was born there, that is, our Bleſſed Lord and
+Saviour, even <hi>Jeſus Chriſt;</hi> he according to <hi>them</hi> is this
+Man, which is here ſpoken of. And that by way of <hi>Dignity to Sion,</hi> as
+the greateſt part of the renown of it. Now as it is with <hi>Chriſt
+Himſelf,</hi> ſo is it with all thoſe which <hi>are</hi> Chriſts;
+<hi>Gracious and holy</hi> perſons, they reflect honou<g ref="char:EOLhyphen"/>rably upon <hi>their
+Relations,</hi> whether of <hi>Perſons</hi> or Places: of <hi>Perſons,</hi>
+the <hi>womb that bare them:</hi> of <hi>Places,</hi> the Countreys that
+brought them forth; each of which do receive ſome reſpect and advancement
+from them.</p>
+            <p>
+               <note place="margin">Application.</note>This is that (which to come
+home to our ſelves) may be very well obſerved by us to Gods glory and our
+own incouragement, even in <hi>this our Sion,</hi> where<g ref="char:EOLhyphen"/>in we now are. I might
+eaſily (if need were) give you <hi>a very large Catalogue</hi> of many
+<hi>famous and eminent perſons</hi> in all kinde of waies and
+profeſſions, which this <hi>place and city</hi> hath brought forth, and
+ſhew how <hi>This and that man was born in her;</hi> But <hi>that</hi>
+perhaps might carry ſome appearance of <hi>vanity</hi> with it. Beſides
+that in mentioning of <hi>ſome,</hi> I ſhould caſt ſome prejudice upon
+<hi>the reſt</hi> which I did not mention: Therefore while I cannot in
+probability name <hi>all,</hi> nor with diſcre<g ref="char:EOLhyphen"/>tion leave out <hi>any,</hi> I
+will now at this time name <hi>none.</hi>
+            </p>
+            <p>
+               <pb n="42" facs="tcp:114971:24"/>But <hi>rather</hi> onely in <hi>ſtead</hi>
+of it perſwade that we <hi>our ſelves</hi> may make up the <hi>number,</hi>
+and tread in their ſtops, by endevouring all we can to adorn this place of
+our <hi>Original</hi> and beginning in the world. I know not how it comes
+about, but there are ſtrange jealouſies and ſuſpicions ſometimes upon
+us. The world is apt to think, that thoſe who are born in the City, are not
+ſo hap<g ref="char:EOLhyphen"/>py in their after improvements as others are. (Perhaps there may be
+more in it then we are aware of.) It will concern us <hi>really</hi> to
+<hi>confute</hi> them, to fruſtrate &amp; falſify ſuch a conceit as that
+is; which we ſhal <hi>do not only by ſuch an appearance</hi> as <hi>this
+is,</hi> which we now make for a day: but by the <hi>conſtant and continued
+frame &amp; tenor</hi> of our whole converſation. We ſhould labour to be
+<hi>all of us</hi> in our times, <hi>bleſsings to this City whiles we
+live,</hi> by our perſons, and by our prayers, and by our intereſts, and by
+our exemplary converſations; and <hi>ornaments to it when we die,</hi> by
+leaving a ſweet memorial behinde us to ſucceeding generations. And let us
+adorn it in the <hi>beſt perfections,</hi> in <hi>vertue, and wiſdome, and
+skill, and piety, and Religion,</hi> and ſuch things as theſe.
+<hi>They</hi> are not the <hi>only credit to the City,</hi> which get <hi>great
+Eſtates</hi> in the City, and grow great and rich men in it (though I hope
+they are <hi>no diſcredit</hi> to it neither) but which are eminent in
+goodneſſe and <hi>reall worth.</hi> This is that which <hi>we</hi> ſhould
+labour to be; and that accor<g ref="char:EOLhyphen"/>ding to our <hi>ſeveral opportunities.
+Magiſtrates</hi> which are <hi>born</hi> in the City, <hi>they</hi> ſhould
+be eſpecially careful <hi>of</hi> it, and watchfull <hi>over</hi> it, and
+ſolicitous for it, ten<g ref="char:EOLhyphen"/>der of the honour of it, and tender of the
+<hi>ſafety</hi> of it, and tender of the peace of it. And
+<hi>Miniſters</hi> which are <hi>born</hi> in the City, the ſouls of
+<hi>the people in it</hi> ſhould be ſo much the more <hi>precious</hi> with
+them, and dear <pb n="43" facs="tcp:114971:24"/>unto them. And <hi>Souldiers</hi> to whom
+the City is the <hi>place of their Birth,</hi> it ſhould have a ſhare in
+their <hi>chiefeſt affection;</hi> and ſo <hi>of the like.</hi> It is
+ſtill obſer<g ref="char:EOLhyphen"/>ved in thoſe wich are <hi>good;</hi> that the better they are
+<hi>themſelves,</hi> the better are others <hi>for</hi> them, and in
+refe<g ref="char:EOLhyphen"/>rence <hi>to</hi> them; <hi>Laban</hi> for <hi>Jacob;</hi> and
+<hi>Potiphar</hi> for <hi>Jo<g ref="char:EOLhyphen"/>ſeph;</hi> and <hi>Zoar</hi> for <hi>Lot;
+Abraham, Iſaac,</hi> and <hi>Jacob,</hi> we know what an influence they had
+upon their <hi>following poſterity.</hi> And the remembrance of
+<hi>David,</hi> we know how it prevailed with <hi>God</hi> for the ſafegard
+of <hi>Jeru<g ref="char:EOLhyphen"/>ſalem; I will defend this city to ſave it</hi> for my ſervant
+<hi>Davids ſake,</hi> Eſai. 37.35. It is recorded to the <hi>honour of
+Mordecai,</hi> Eſth. 10.3. That being next unto King <hi>Ahaſuerus,</hi>
+and great among the <hi>Jewes,</hi> and accepted of the multitude of his
+brethren, He ſought the <hi>wealth of his people,</hi> and <hi>ſpake peace
+to all his ſeed.</hi> We ſhould all conſider with our ſelves what
+advantages God has furniſht us withall in our ſeveral capacities, whether
+of <hi>wiſdome, or knowledge, or power, or favour, or intereſt, or
+eſtates, or the like;</hi> and ſtudy to lay them all out to the good and
+welfare of the places in which we live, where we were born, and whereunto we
+be<g ref="char:EOLhyphen"/>long, that they may be ſo much the better, and more flouriſhing for our
+ſakes: and ſo far cauſes in a manner of their own happineſſe, as they
+have <hi>bred and brought forth us,</hi> and ſent us out of themſelves.</p>
+            <p>The contrary hereunto is obſervable in many perſons; There are
+a great many people in the world; which as it had been better for
+<hi>themſelves,</hi> that they had never been born <hi>at all;</hi> ſo it
+had been better for <hi>the places</hi> in <hi>which</hi> they were born, that
+they had never been born <hi>there;</hi> which like <hi>Vipers</hi> eat out the
+bowels of their <hi>own pa<g ref="char:EOLhyphen"/>rents;</hi> which are ſo many <hi>plagues</hi> and
+peſts, and cala<g ref="char:EOLhyphen"/>mities <pb n="44" facs="tcp:114971:25"/>to the Cities, and Countreys, and
+Nations which they relate unto. And this, if not alwaies
+<hi>in<g ref="char:EOLhyphen"/>tentionally,</hi> yet <hi>effectively</hi> and in the <hi>event</hi> at
+leaſt. By their wicked practiſes, by their ſcandalous examples, by their
+ungodly and unfruitful converſations. <hi>Scornful men</hi> they bring a City
+<hi>into a ſnare,</hi> or they ſet <hi>a City on fire:</hi> as the word
+<gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> alſo ſignifies, Prov. 29.8.
+They are very <hi>burdens</hi> to the place that bears them,
+<gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which is even ready for the
+offen<g ref="char:EOLhyphen"/>ſiveneſſe of them to <hi>expell</hi> them, and caſt them out, and
+to call for <hi>vengeance</hi> from Heaven upon them.</p>
+            <p>But I am perſwaded <hi>better</hi> things of <hi>you</hi> (Dear
+Chriſtians and <hi>Countreymen</hi>) and things that <hi>accompany
+ſalvation,</hi> though I thus ſpeak. I told you before of a
+<hi>Catalogue</hi> of many <hi>worthy</hi> and eminent Men, who had their
+Riſe and Beginning in this City, which it were eaſie for me to produce, to
+the honour and re<g ref="char:EOLhyphen"/>nown of it in all particulars. But what need I to do
+<hi>that?</hi> Mine eyes behold this <hi>Day</hi> amongſt <hi>yourſelves,
+This</hi> and <hi>that</hi> man to be <hi>born in her;</hi> which I hope will
+be carefull to anſwer this paſſage and expreſſion in the Text; And as
+to <hi>receive</hi> honour <hi>from Sion,</hi> that they were born
+<hi>there;</hi> So again to <hi>return</hi> ho<g ref="char:EOLhyphen"/>nour <hi>to Sion;</hi> that
+<hi>there they</hi> were born. And ſo I have done with the firſt general
+part of the Text, <hi>viz. The Priviledge mention'd.</hi>
+            </p>
+            <p>
+               <note place="margin">The ſecond. General.</note>The
+<hi>SECOND</hi> is the <hi>Celebration</hi> of this Priviledge; 
+<note place="margin">The Celebra<g ref="char:EOLhyphen"/>tion twofold.</note>And that (as I
+told you in the beginning) twofold. 
+<note place="margin">1 The <hi>Hu<g ref="char:EOLhyphen"/>mane
+Celebra<g ref="char:EOLhyphen"/>tion.</hi>
+               </note>Firſt, on <hi>Mans part,</hi> by <hi>way of
+diſcourſe,</hi> in the 5. verſe, <hi>It ſhall be ſaid.</hi> 
+               <note place="margin">2. The Report.</note>Secondly, on <hi>Gods
+part,</hi> by way of <hi>Record,</hi> in the 6. <hi>The Lord ſhall count
+when</hi> &amp;c. We <pb n="45" facs="tcp:114971:25"/>begin with the <hi>firſt</hi> in the
+6. verſe, The Celebration on <hi>Mans part,</hi> by way of
+<hi>Diſcourſe,</hi> wherein again <hi>two branches</hi> more: Firſt, the
+<hi>Report</hi> of it; and ſecondly, the <hi>Succeſſe</hi> of it. The
+<hi>Report</hi> of it, It ſhall be <hi>ſaid</hi> &amp;c. The
+<hi>Succeſſe</hi> of it, And <hi>the Higheſt himſelf ſhall
+eſta<g ref="char:EOLhyphen"/>bliſh it.</hi> Firſt, For the <hi>Report,</hi> It ſhall be
+<hi>ſaid;</hi> ſaid by two ſorts of perſons. Firſt, By the
+<hi>Members</hi> of it in a way of <hi>exultation:</hi> Secondly, By the
+<hi>ſtrangers</hi> of it, in a way of <hi>Admiration.</hi>
+            </p>
+            <p>By the <hi>Members,</hi> firſt, <hi>Exultingly, Sion ſhall
+rejoyce</hi> in the multitude of her <hi>own Converts,</hi> and ſpeak
+Tri<g ref="char:EOLhyphen"/>umphantly of them. 
+<note place="margin">1. By them<g ref="char:EOLhyphen"/>ſelves.</note>
+               <hi>They
+themſelves</hi> which were <hi>born in Sion,</hi> ſhall ſay, that
+<hi>This man</hi> was born in her; whe<g ref="char:EOLhyphen"/>ther ye take it for <hi>Sion in the
+Civil ſenſe,</hi> or in the <hi>Spi<g ref="char:EOLhyphen"/>ritual;</hi> In the <hi>Mystical,</hi>
+or in the <hi>Local;</hi> for the <hi>City of God,</hi> or for the <hi>City of
+David.</hi> It ſhall be <hi>ſaid,</hi> up<g ref="char:EOLhyphen"/>on either account or occaſion.
+<hi>Excellency</hi> is not enough in it ſelf, <hi>unleſſe it be
+obſerv'd and taken notice of.</hi> Now <hi>this</hi> is that which ſhall be
+done here as concerning the <hi>Natives of Sion,</hi> and the <hi>qualities and
+varieties</hi> of them. It is a thing which ſhall be <hi>ſpoken of and
+divulged all abroad;</hi> and that <hi>firſt by themſelves,</hi> when it is
+ſaid here: <hi>It ſhall be ſaid;</hi> we muſt take it in its <hi>full
+latitude, and with all</hi> the advantage that may be; It ſhall be ſaid
+<hi>ſolemnly;</hi> it ſhall be ſaid <hi>publickly;</hi> it ſhall be
+ſaid <hi>conſtantly;</hi> it ſhall be ſaid <hi>joyfully.</hi> And that
+with all the <hi>circumſtances and appurtenances</hi> belonging unto it of a
+moſt glorious commemoration; with <hi>clapping of Hands,</hi> with
+<hi>ſounding of Trumpets,</hi> with <hi>ringing of Bels,</hi> with
+feaſtings and ſending portions to one ano<g ref="char:EOLhyphen"/>ther, and gifts to the poor, as
+it was ſometimes amongſt the <hi>Jewes,</hi> Eſth. 9.22. They ſhall joy
+before thee according to the <hi>joy in harveſt,</hi> and as men rejoyce 
+<pb n="46" facs="tcp:114971:26"/>when they <hi>divide the ſpoyle,</hi> That this man was
+born <hi>there;</hi> it is ſpoken of <hi>Chriſt,</hi> Eſai. 9.3. And it's
+ap<g ref="char:EOLhyphen"/>plyable likewiſe to his Members; when any are by the goodneſſe of God
+born thus, they have as great cauſe of exulting and rejoycing, as any men
+elſe in all the world. It is the joy of the Angels, which <hi>they</hi>
+cele<g ref="char:EOLhyphen"/>brate; and therefore which the parties themſelves are more eſpecially
+intereſted <hi>in.</hi>
+            </p>
+            <p>
+               <note place="margin">In the Civil Senſe.</note>But that's not all,
+in the <hi>ſpiritual</hi> ſenſe of it, it may be carried alſo to the
+<hi>civil.</hi> Of thoſe which were <hi>born in Sion,</hi> conſidered as
+<hi>the City of David,</hi> and as de<g ref="char:EOLhyphen"/>termined to this particular
+<hi>place,</hi> and this particular <hi>Countrey,</hi> ſo there's matter of
+<hi>
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>on</hi> in it alſo. And ſo
+it comes home more particularly to the occa<g ref="char:EOLhyphen"/>ſion of our preſent meeting at
+this preſent time: we ſee here a warrant for the practiſe of this daies
+ſolem<g ref="char:EOLhyphen"/>nity in the commemoration of thoſe which have been <hi>born amongſt
+us</hi> here in this <hi>City;</hi> Indeed, theſe <hi>obſer<g ref="char:EOLhyphen"/>vations of
+Births</hi> have ſometimes been called in que<g ref="char:EOLhyphen"/>ſtion, whether lawful in
+regard of the Time (and it holds proportionably of the <hi>place</hi>) Some of
+the <hi>Anci<g ref="char:EOLhyphen"/>ents were very much</hi> againſt it, as <hi>Origen,</hi> and
+<hi>Jerom,</hi> &amp;c. but their <hi>grounds are very weak and
+ſuperſtitious.</hi> It ſeems <hi>they</hi> were <hi>born too ſoon to
+underſtand the Truth of this point.</hi> For we which are born <hi>after</hi>
+them muſt take leave to be of another opinion, and to diſſent from them
+in it. If there be any <hi>comfort in being,</hi> in <hi>life,</hi> in
+<hi>preſervation,</hi> whether of <hi>parent</hi> or <hi>children,</hi>
+certainly <hi>Birth</hi> is to be acknowledged and to be remembred, as <hi>a
+very great Bleſsing;</hi> and that not for <hi>time</hi> only but
+<hi>place.</hi> It is that which we do <hi>this day;</hi> and may do with
+theſe due cautions and limitations which are conſi<g ref="char:EOLhyphen"/>derable in it.</p>
+            <p n="1">
+               <pb n="47" facs="tcp:114971:26"/>
+               <note place="margin">The manner of
+celebration.</note>
+               <note place="margin">1. With Mo<g ref="char:EOLhyphen"/>deſty.</note>Firſt, with
+<hi>Modeſty</hi> and <hi>Schriety,</hi> That we make it not a piece of
+<hi>Pageantry;</hi> an occaſion of ſhewing our ſelves to the
+<hi>world;</hi> a <hi>numbring of the people;</hi> an af<g ref="char:EOLhyphen"/>fectation only of
+conformity to other Countreys; as who (we think) would not be inferior to them;
+but with all meekneſſe, and humility, and ſelf-denial; It is made as a
+great diſparagement to the obſervation of <hi>Birth-daies;</hi> That there
+were none in all the Scripture that kept them, but only <hi>Pharaoh</hi> and
+<hi>Herod;</hi> two wicked &amp; ungodly men: <hi>Et celebrabant convivium quia
+ignorabant myſterium.</hi> And they obſerved the <hi>ſolem<g ref="char:EOLhyphen"/>nity</hi>
+becauſe they underſtood not the <hi>myſtery;</hi> to wit, of <hi>original
+ſin:</hi> This is that which we for our particu<g ref="char:EOLhyphen"/>lars are not to be ignorant
+<hi>of</hi> nor yet <hi>forgetful,</hi> but to underſtand our ſelves in
+this particular.</p>
+            <p n="2">
+               <note place="margin">2. Thankful<g ref="char:EOLhyphen"/>neſſe.</note>Secondly,
+with <hi>thankfulneſſe and due acknowledge<g ref="char:EOLhyphen"/>ment,</hi> for Gods
+goodneſſe <hi>to us in our Births</hi> with all the <hi>circumſtances of
+them:</hi> not only, that we are born <hi>there,</hi> but born <hi>thus,</hi>
+with other priviledges attending hereupon: Not only <hi>born</hi> in the City,
+but <hi>preſerved</hi> in it; and ſo <hi>prevented</hi> from thoſe ſad
+calamities which many <hi>others have fallen into,</hi> before our eyes, in
+theſe late heavy troubles and diſtractions, which have been upon the Land;
+not driven from <hi>our houſes,</hi> not di<g ref="char:EOLhyphen"/>ſturb'd in our
+<hi>imployments;</hi> not ſeparated from <hi>our neareſt friends</hi> and
+greateſt comforts; others, like ſo many <hi>exiles</hi> baniſht from
+their particular <hi>Countreys; we</hi> have all this while been even <hi>at
+home,</hi> without any diſturbance or interruption. <hi>Oh bleſſed be
+God,</hi> who hath ſhewn us <hi>ſuch marvellous kindneſſe in a ſtrong
+City.</hi> (Pſal. 31.21.)</p>
+            <p n="3">
+               <note place="margin">3. Improve<g ref="char:EOLhyphen"/>ment.</note>Thirdly, With
+improvement, and to edification; <hi>That</hi> muſt be the main
+buſineſſe of our coming toge<g ref="char:EOLhyphen"/>ther <pb n="48" facs="tcp:114971:27"/>at this time; that
+we may come together for <hi>the better,</hi> and not for <hi>the worſe,</hi>
+for the <hi>mutual increaſe of love,</hi> and the <hi>ſeeking occaſions
+and opportunities</hi> for the doing of good. That we which are <hi>Born</hi>
+in <hi>Sion</hi> may promote the <hi>welfare</hi> of <hi>Sion;</hi> and that in
+either <hi>Ac<g ref="char:EOLhyphen"/>cept on,</hi> both in the <hi>civil ſenſe,</hi> and in the
+<hi>ſpiritual:</hi> In the Civil, the welfare of the City; and in the
+<hi>ſpi<g ref="char:EOLhyphen"/>ritual,</hi> the welfare of the <hi>Church;</hi> and in each have a
+reſpect <hi>to thoſe</hi> which are <hi>born</hi> in either; The Scri<g ref="char:EOLhyphen"/>pture
+points out <hi>both,</hi> as the proper regulations of Charity. Both
+<gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, And
+<gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Thoſe which are godly and good
+Chriſtians; and ſo of the Houſhold of <hi>Faith.</hi> And thoſe which
+are Natives and and Born Citizens; and ſo of <hi>your Houſhold,</hi> that
+ye may <hi>ſhew piety, or kindneſſe at home.</hi>
+               <note place="margin">1.
+Tim. 5.4.</note> 
+               <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>Thus</hi>
+to celebrate ſuch memorials as theſe is very <hi>no<g ref="char:EOLhyphen"/>ble and
+honourable;</hi> and <hi>thus</hi> it may be done by us. This report concerning
+<hi>Sion,</hi> it ſhall be firſt made by the <hi>children</hi> of
+<hi>Sion;</hi> It ſhall be ſaid by them <hi>them<g ref="char:EOLhyphen"/>ſelves.</hi>
+            </p>
+            <p n="2">
+               <note place="margin">2. By <hi>others.</hi>
+               </note>Secondly, it
+ſhall be ſaid alſo by <hi>others,</hi> and thoſe which are ſtrangers
+<hi>to</hi> it. It ſhall be ſaid likewiſe by <hi>them:</hi> ſo the
+<hi>Ethiopick Tranſlation</hi> carries it in the ve<g ref="char:EOLhyphen"/>ry <hi>Text it
+ſelf,</hi> and reads the words <hi>thus. Forrainers have ſaid this</hi> of
+thee; <hi>This and that man was</hi> &amp;c. In Eſai. 61.9. the place before
+cited. Their ſeed ſhall be <hi>known among the Gentiles,</hi> and their
+off-ſpring amongſt the people; all that <hi>ſee</hi> them ſhall
+<hi>acknow<g ref="char:EOLhyphen"/>ledge</hi> them, that they are people whom the Lord hath bleſt.
+They ſhall <hi>point</hi> at them, as it were with their <hi>fingers,</hi> as
+they go along the ſtreets and that not in a way of <hi>ſcorn and
+reproach;</hi> but in a way of <hi>honour and high reſpect;</hi> Loe, This
+and that man &amp;c. The meaning <pb n="49" facs="tcp:114971:27"/>of it is this; That it
+ſhall be no <hi>ſhame</hi> to be of ſuch a <hi>Relation,</hi> or ſuch
+an <hi>Extraction:</hi> There are ſome kinde of <hi>Countreys in the
+world;</hi> which thoſe that are the Natives of them, are ſometimes
+aſhamed <hi>to own them,</hi> in regard of ſome infamous mark or character,
+which lies upon them; But <hi>Sion</hi> is none <hi>of theſe.</hi> There is
+ſo much <hi>true Dignity and Renown</hi> which belongs to <hi>this,</hi> as
+that every one ſhall be ready to <hi>ſpeak for it;</hi> and every one
+ſhall be ready <hi>to own</hi> it &amp;c. That's the firſt Branch
+conſiderable of us in this Popular Celebration; <hi>The Report,</hi> It
+ſhall be ſaid.</p>
+            <p n="2">
+               <note place="margin">2. The Suc<g ref="char:EOLhyphen"/>ceſſe.</note>The ſecond
+Branch, is the <hi>Succeſſe or glorious effect;</hi> and <hi>The Higheſt
+himſelf ſhall eſtabliſh</hi> it; Here's a <hi>gracious</hi> and
+comfortable intimation <hi>concerning the Church.</hi> It may be taken either
+as a <hi>prayer,</hi> or as a <hi>pro<g ref="char:EOLhyphen"/>miſe:</hi> as a Prayer, <hi>Let</hi>
+the Higheſt <hi>&amp;c.</hi> Or as a Pro<g ref="char:EOLhyphen"/>miſe, The Higheſt
+<hi>ſhall,</hi> or will; it is a very good ſenſe either of them. But I
+rather incline to the latter, as it is here rendred in our own Tranſlation.
+Where again two things more: Firſt, The Bleſſing ſignified, and that is
+the <hi>ſtability of Sion.</hi> Secondly, The <hi>Au<g ref="char:EOLhyphen"/>thor</hi> of this
+Bleſſing, and that's the Lord Him<g ref="char:EOLhyphen"/>ſelf.</p>
+            <p n="1">
+               <note place="margin">1 The Chur<g ref="char:EOLhyphen"/>ches
+ſtability.</note>Firſt, The <hi>Bleſsing</hi> it ſelf promiſed: And
+that is the <hi>ſtability of Sion, Sion</hi> ſhall be eſtabliſht. This
+is a point which the Scripture is very full and pregnant in, as none more,
+Eſai. 33.20. <hi>Look upon Sion,</hi> &amp;c. A <hi>Tabernacle that ſhall
+not be taken down;</hi> nor one of the ſtakes thereof ſhall ever be
+removed. So Pſal. 125.2. <hi>They that truſt in the Lord ſhall be as
+Mount Sion, which cannot be removed, but abideth for ever.</hi> Mat. 16.16. It
+is ſaid, <hi>That the Gates of Hell ſhall not pre<g ref="char:EOLhyphen"/>vail againſt the
+Church.</hi> And Heb. 12.28. It <pb n="50" facs="tcp:114971:28"/>is call'd
+<gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a <hi>Kingdome that cannot be
+ſhaken.</hi>
+            </p>
+            <p>
+               <note place="margin">The Ground of it.</note>The Ground of it is the
+<hi>ſtrong Foundation,</hi> where<g ref="char:EOLhyphen"/>upon it is built. <hi>Her</hi> foundation
+is in the <hi>holy Moun<g ref="char:EOLhyphen"/>tains,</hi> verſ. 1. of this Pſalm, according to
+ſome Tran<g ref="char:EOLhyphen"/>ſlations of it. And Eſai. 14.32. <hi>The Lord</hi> hath founded
+<hi>Sion,</hi> and the poor of his people ſhall <hi>truſt</hi> in it, or
+<hi>betake themſelves</hi> to it. What is it founded upon? Upon the
+<hi>Attributes</hi> of God; upon the <hi>Word</hi> of God; upon the
+<hi>Son</hi> of God; It is founded upon a <hi>Rock:</hi> On this <hi>Rock</hi>
+will I build my Church; in the place before alledged.</p>
+            <p n="2">
+               <note place="margin">2. The Author.</note>This brings in the
+<hi>ſecond</hi> with it, and that is the <hi>Au<g ref="char:EOLhyphen"/>thor</hi> or Beſtower of
+this Bleſſing. They do well being joyned together; and indeed they cannot
+well be ſe<g ref="char:EOLhyphen"/>ver'd. This is here expreſt in the Text to be the <hi>HIGHEST
+HIMSELF.</hi> 
+               <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> It is <hi>He</hi>
+that eſta<g ref="char:EOLhyphen"/>bliſhes <hi>Sion</hi> and every member of it. He that
+<hi>eſta<g ref="char:EOLhyphen"/>bliſhes</hi> us with you in Chriſt, and hath anointed us is
+<hi>God.</hi> And ſo S. <hi>Peter,</hi> 1 Pet. 5.10.
+<gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>The God of all Grace who
+hath call'd us</hi> &amp;c. make you <hi>perfect, ſtabliſh, ſtrengthen,
+ſettle you;</hi> ſee there are <hi>four words</hi> at once for the
+expreſſion of <hi>this</hi> unto us,
+<gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Set you in joynt,
+con<g ref="char:EOLhyphen"/>ſolidate, corroborate, give you a good foundation. And all from <hi>God
+himſelf;</hi> who gives the <hi>Grace at firſt;</hi> He that <hi>cals</hi>
+muſt alſo <hi>keep;</hi> He that <hi>begins,</hi> muſt <hi>per<g ref="char:EOLhyphen"/>fect;</hi>
+He that is the author of <hi>converting</hi> Grace, muſt be the giver alſo
+of <hi>establiſhing;</hi> we ſtand not by our own <hi>Habituals,</hi> but
+by <hi>his Auxiliaries and Aſsiſtan<g ref="char:EOLhyphen"/>ces,</hi> &amp;c. And ſo here the
+<hi>most High.</hi>
+            </p>
+            <p>There are inferiour <hi>Highneſſes</hi> even below here in the
+world, which the <hi>Preacher</hi> tels us of, Eccleſ. 5.8. 
+<pb n="51" facs="tcp:114971:28"/>
+               <note place="margin">Subordinate eſtabliſhers of
+<hi>Sion.</hi>
+               </note>
+               <hi>All</hi> men are not of the ſame <hi>ſtature</hi>
+or ſize; nor is it fitting they <hi>ſhould</hi> be. There are
+<hi>ſome</hi> Higher then <hi>others</hi> by the <hi>Head and Shoulders.</hi>
+               <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. And the <hi>eſtabliſhment of
+Sion</hi> does in a great meaſure depend upon <hi>them;</hi> it is their
+<hi>work</hi> to do it; &amp; it is their <hi>duty</hi> to do it; &amp; it is
+their <hi>glory</hi> to do it; not only to <hi>pull down Babylon,</hi> but to
+<hi>eſtabliſh Sion.</hi> To eſtabliſh it in the <hi>Graces</hi> of it;
+and to eſtabliſh it in the <hi>Doctrines</hi> of it; and to eſtabliſh
+it in the <hi>Ordinances</hi> of it. They cannot better eſtabliſh
+<hi>themſelves,</hi> then by eſtabliſhing <hi>that.</hi> It is the
+Higheſt <hi>Honour</hi> which God puts upon them, when he does not only give
+them <hi>abilities</hi> and opportunities <hi>for</hi> it; but likewiſe
+withall, <hi>hearts</hi> and affections <hi>to</hi> it. But yet the
+<hi>ſtrength</hi> of the work it lies not ſo much in <hi>them</hi> as in
+<hi>Him. That He which is higher then the higheſt regards it</hi> as
+<hi>there be higher then They.</hi>
+            </p>
+            <p>
+               <note place="margin">The Cohe<g ref="char:EOLhyphen"/>rence.</note>Therefore it is worth our
+obſervation, how theſe words are here brought in in the <hi>Text:</hi>
+namely in a way of <hi>prolepſis</hi> and anticipation: He had ſaid in the
+words before, That <hi>this</hi> and <hi>that</hi> man, that is, (as I have
+already explained it) this <hi>variety of eminent</hi> perſons was <hi>born
+in Sion;</hi> now from hence ſome might be ready to conclude, that
+<hi>then</hi> certainly it ſhould be <hi>ſure to ſtand;</hi> if it hath
+ſuch excellent <hi>Supporters,</hi> as thoſe <hi>famous Men</hi> which were
+born in it, <hi>then</hi> there's no fear that it ſhould <hi>ever decay.</hi>
+They'l take care to keep it up <hi>themſelves.</hi> Oh but ſaies the
+<hi>Spirit</hi> of God, <hi>That's</hi> not <hi>that</hi> which <hi>Sion</hi>
+muſt <hi>truſt</hi> to. It is an <hi>advantage</hi> indeed to Her, to have
+ſuch perſons of <hi>note and quality</hi> to be born in Her; yea, but
+that's not the <hi>Baſis</hi> whereupon ſhe muſt reſt her ſelf. No,
+no, but the <hi>Goodneſſe, and Power, and Providence</hi> of an 
+<pb n="52" facs="tcp:114971:29"/>
+               <hi>Almighty God;</hi> God will not truſt his
+<hi>Church</hi> with the <hi>Beſt man alive;</hi> No, He will eſtabliſh
+it <hi>Himſelf,</hi> He will eſtabliſh it <hi>Himſelf,</hi> as a work
+<hi>peculiar</hi> to Him. Where men ſhall <hi>neglect</hi> to do it,
+<hi>there</hi> He will do it <hi>Himſelf</hi> by ſupplying their
+<hi>defects,</hi> that <hi>He</hi> may not be beholding to <hi>them;</hi> Where
+men ſhall <hi>under<g ref="char:EOLhyphen"/>take</hi> to do it, <hi>there</hi> He will do it
+<hi>Himſelf,</hi> by <hi>ſtreng<g ref="char:EOLhyphen"/>thening</hi> their <hi>undertakings,</hi>
+that ſo they may be be<g ref="char:EOLhyphen"/>holding to <hi>Him.</hi> So it is ſtill
+<hi>Himſelf</hi> which does it, and upon the point Himſelf <hi>alone.</hi>
+There's none which have <hi>Bowels</hi> for it like <hi>Him;</hi> there's none
+which have <hi>Power</hi> for it like <hi>Him.</hi> And therefore it muſt
+<hi>needs</hi> be He: and ſo it is, <hi>I the LORD do keep it,</hi> Eſai.
+27.3. And here, <hi>The Higheſt Himſelf</hi> ſhall eſtabliſh it.</p>
+            <p>
+               <note place="margin">A word of comfor<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note>This is a Point of <hi>admirable Comfort</hi> and
+conſolati<g ref="char:EOLhyphen"/>on, in both the Branches of it; whether we conſider the work it
+ſelf, <hi>Sions eſtabliſhment:</hi> or whether we we conſider the
+<hi>Author</hi> of this work, the Lord Him<g ref="char:EOLhyphen"/>ſelf: yea, in both taken together
+it is very ſweet and ſatisfactory. Every one naturally deſires the
+eſtabliſh<g ref="char:EOLhyphen"/>ment of their <hi>own party,</hi> and the eſtabliſhment of
+their <hi>own Countrey,</hi> that <hi>that</hi> may be ſure to ſtand what
+ever becomes of any thing elſe, This is the priviledge and advantage now of
+<hi>Sion, i. e.</hi> the Church of God. The <hi>Lord Himſelf</hi> has
+undertaken to <hi>eſtabliſh</hi> it. And that <hi>for ever</hi> as the
+<hi>Arabick</hi> Interpreter reads it in the <hi>Text</hi>
+               <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>He hath founded it for
+ever.</hi> Becauſe He <hi>ever lives</hi> that eſtabliſhes it, therefore
+it ſhall <hi>for ever</hi> be eſtabliſht. As for <hi>Men</hi> they are
+<hi>mor<g ref="char:EOLhyphen"/>tal,</hi> and their eſtabliſhing is no longer then for their
+<hi>lives</hi> (although they may lay a <hi>ground</hi> and foundation of
+eſtabliſhment for <hi>future</hi> Ages.) But now the <hi>Higheſt 
+<pb n="53" facs="tcp:114971:29"/>Himſelf</hi> is <hi>for ever.</hi> The <hi>ETERNAL
+God</hi> is thy Re<g ref="char:EOLhyphen"/>fuge, and underneath are the <hi>everlaſting</hi> Armes,
+Deut. 33.27. Therefore thou ſhalt be an <hi>eternal</hi> ex<g ref="char:EOLhyphen"/>cellency, and a
+Joy of <hi>many generations,</hi> Eſai. 60.15.</p>
+            <p n="1">
+               <note place="margin">
+                  <hi>
+                     <g ref="char:V">Ʋ</g>ſe.</hi>
+               </note>Where then are
+thoſe that are ill-willers to <hi>Sion,</hi> and that think to pull down
+<hi>that!</hi> 
+               <note place="margin">1 Confuſion to <hi>Sions</hi>
+Ad<g ref="char:EOLhyphen"/>verſaries.</note>How do they be<g ref="char:EOLhyphen"/>fool themſelves, and labour in vain,
+which All the <hi>Powers in Earth or Hell, are never able to prevail
+againſt!</hi> This <hi>Altiſsimus;</hi> He is out of their <hi>reach,</hi>
+and beſides can over-reach <hi>them.</hi> This <hi>City</hi> which is built
+<hi>upon a rock,</hi> it will out-ſtand all <hi>flouds</hi>
+whatſo<g ref="char:EOLhyphen"/>ever.</p>
+            <p n="2">
+               <note place="margin">2. Comfort to particular
+Chriſtians.</note>This is comfortable not only in the behalf of the <hi>whole
+Church,</hi> but alſo of every <hi>particular perſon,</hi> and member of it
+which ſtands upon the <hi>ſame bottome.</hi> Every <hi>private</hi>
+Chriſtian is upon the ſame termes in point of <hi>ſtability,</hi> with
+<hi>Sion</hi> it ſelf. They that <hi>truſt in the Lord</hi> ſhall be as
+<hi>Mount Sion.</hi> And <hi>they</hi> not only <hi>collectively</hi> taken,
+but likewiſe <hi>diſtributively.</hi>
+            </p>
+            <p>When it is ſaid here, that God will <hi>eſtabliſh Sion,</hi>
+we are to underſtand it eſpecially of <hi>Sion Myſtically,</hi> rather
+then of <hi>Sion Locally. Particular</hi> Churches may fail, but not the Church
+in <hi>General.</hi> And again <hi>general Churches</hi> may fail, but not
+<hi>particular Chriſtians:</hi> yea, the <hi>whole world</hi> may fail, when
+yet a <hi>Beleever</hi> ſtands impregnable; <hi>Cadit mundus, ſtat
+Christianus quia non codit Christus.</hi>
+               <note place="margin">Auguſtine.</note>
+There is not the <hi>pooreſt</hi> Chriſtian that is, but he is upon ſurer
+termes with <hi>God</hi> then any one <hi>viſible Church;</hi> Gods Covenant
+is but <hi>temporary</hi> with a <hi>Nation,</hi> but it is <hi>perpetual</hi>
+with a <hi>Perſon,</hi> as being foun<g ref="char:EOLhyphen"/>ded in <hi>Chriſt Himſelf,</hi>
+whom he is rooted into. As here in the <hi>City,</hi> ſuch a <hi>Company or
+Corporation</hi> may fail, when as the particular <hi>Members</hi> or Brethren
+of <pb n="54" facs="tcp:114971:30"/>it may ſubſiſt and hold up their Heads. We ſee
+thoſe famous <hi>Churches of Aſia,</hi> which are made mention of in the
+<hi>Revelation,</hi> how they are all now come <hi>to no<g ref="char:EOLhyphen"/>thing.</hi> And
+<hi>other</hi> Churches have no better an hold then <hi>they</hi> had: <hi>Quam
+diu bene ſe geſſerint, &amp; durante bene placito.</hi> That ſo we may
+not be <hi>high-minded,</hi> but <hi>fear.</hi>
+            </p>
+            <p>Indeed it ſhould be <hi>All</hi> our Cares and endevours, that
+God would eſtabliſh not only <hi>that,</hi> but <hi>this;</hi> not only
+<hi>Sion</hi> in <hi>general,</hi> but alſo <hi>our Sion</hi> in particular;
+not only <hi>Chriſtendome,</hi> but <hi>England;</hi> nor only
+<hi>Eng<g ref="char:EOLhyphen"/>land,</hi> but <hi>London;</hi> and we are anſwerably <hi>to demean
+our ſelves</hi> in order and reference hereunto; which may be very much
+obtained, and procured by our behaviour: we ſhould every one ſo deport our
+ſelves: as that God may delight ſtill to dwell amongſt us; and not remove
+the Candleſtick from us. We which <hi>are ſet watchmen upon the wals,</hi>
+we ſhould never hold our peace day nor night. And we which <hi>make mention
+of the Lord,</hi> or are the Lords Remembrancers, we ſhould not keep
+ſilence till he has eſtabliſht and made <hi>our Jeruſalem</hi> even a
+praiſe in all the Earth.<note place="margin">Eſai. 62.6,7.</note> So much for
+<hi>that.</hi> And ſo I have done with this celebration of the Priviledge on
+<hi>Mans part, by way of Report,</hi> in the 5. verſe. <hi>And of Sion it
+ſhall be ſaid</hi> &amp;c. The ſecond is on <hi>Gods part, by way of
+Record: The Lord ſhall count</hi> &amp;c. verſ. 6.</p>
+            <p n="2">
+               <note place="margin">2. The <hi>Divine</hi>
+Celebration.</note>This has a double preheminence both of the Perſon, and of
+the Conveyance. Firſt of the <hi>perſon,</hi> that it is <hi>God.</hi> As
+for <hi>men</hi> to take notice of ſuch a buſineſſe; there's it may be
+no ſuch <hi>matter</hi> in it; <hi>They</hi> may be carried perhaps by
+<hi>fondneſſe, and partiality, and ſelf-love,</hi> have ſome reſpect
+to <hi>themſelves</hi> in it. Yea but for <hi>the honour of the Natives of
+Sion,</hi> the <hi>Lord Himſelf</hi> ſhall take an account of them, and
+obſerve who they are.</p>
+            <p>
+               <pb n="55" facs="tcp:114971:30"/>Secondly, For the <hi>Conveyance.</hi> That
+other, it is on<g ref="char:EOLhyphen"/>ly of <hi>Report.</hi> Of <hi>Sion</hi> it ſhall be ſaid:
+that's but a <hi>tran<g ref="char:EOLhyphen"/>ſient</hi> obſervation, <hi>Vox audita perit.</hi>
+But this here, it is by way of <hi>Record;</hi> The Lord when he
+<hi>writes</hi> up the peo<g ref="char:EOLhyphen"/>ple, &amp;c. <hi>Litera ſcripta manet. This</hi>
+is more abiding and <hi>permanent.</hi> And here again two things more.
+Firſt, ſomewhat <hi>Implyed;</hi> And ſecondly, ſomewhat
+<hi>Expreſt.</hi> That which is <hi>implyed</hi> is <hi>this:</hi> That
+<hi>God does write up the people.</hi> That which is expreſt is
+<hi>this:</hi> that when God <hi>does</hi> write up the people, he ſhall
+count in <hi>this</hi> with it, That <hi>this Man</hi> was born
+<hi>there.</hi>
+            </p>
+            <p n="1">
+               <note place="margin">1. That which is implyed.</note>Firſt,
+For the <hi>thing implyed;</hi> it is this: That <hi>God does write up the
+people;</hi> He does <hi>conſcribere Populos;</hi> It is a Metaphor taken
+from <hi>the affairs of this preſent life</hi> and the offices of it. From a
+<hi>ſhepherd</hi> taking ac<g ref="char:EOLhyphen"/>count of <hi>his ſheep;</hi> From a
+<hi>Commander</hi> numbring of his <hi>Souldiers:</hi> From a
+<hi>Magiſtrate</hi> or Chamberlain of a City, <hi>regiſtring</hi> and
+inrolling thoſe which are made free of ſuch a City and Corporation. Thus
+does the Lord do in <hi>his Church,</hi> in Ezek. 13.9. we read of Kethab Beth
+Iiſrael, <hi>The writing of the houſe of Iſrael.</hi> And Exod. 30.12. of
+Roſh Bene Iiſrael, <hi>The ſum</hi> of the children of <hi>Iſrael.</hi>
+And Numb. 11.26. Of Eldad and Medad, that they were
+<gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> among <hi>them that were
+written.</hi> In Mal. 3.17. There's Se<g ref="char:EOLhyphen"/>pher Zikkaron, <hi>A Book of
+Remembrance,</hi> which was <hi>written</hi> for them that feared the Lord, and
+that thought upon his Name. And God hath divers Books of this nature: Firſt,
+The book of <hi>Election and Predeſtination,</hi> which is calld in Scripture
+language, The Book of <hi>Life,</hi>
+               <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Phil. 4.3. whoſe names are in
+the Book of <hi>Life;</hi> that is, the <hi>Heavenly Roul.</hi> Luk. 10.22.
+Rejoyce in <hi>this;</hi> becauſe your names are written in 
+<pb n="56" facs="tcp:114971:31"/>
+               <hi>Heaven.</hi> Secondly, The Book of <hi>Scriptures,</hi>
+wherein there are the Records of all the famous and eminent Saints both of the
+Old and New Teſtament, and in them vertually of all the reſt. In
+<hi>Scriptura populorum;</hi> ſo <hi>Hie<g ref="char:EOLhyphen"/>rom</hi> renders it, <hi>In the
+Scripture of the people;</hi> and he gives this reaſon for it; <hi>ut quae ab
+omni populo lega<g ref="char:EOLhyphen"/>tur:</hi> which may be read of all people indifferently. The
+third is, The Book of <hi>Providence and preſervation,</hi> which
+<hi>Moſes</hi> underſtands by <hi>Thy</hi> Book, Exod. 32.32. When as
+rather then <hi>Iſrael</hi> ſhould be utterly deſtroyed, he makes this
+Petition to God: Blot me (I pray thee) out <hi>of thy Book which thou haſt
+written:</hi> i. e. Not out of the Book of <hi>Election,</hi> as it is commonly
+and ordi<g ref="char:EOLhyphen"/>narily taken; but out of the Book of <hi>Providence.</hi> Ac<g ref="char:EOLhyphen"/>cording
+to that alſo in Eſai. 4.3. Every one that is <hi>written amongſt the
+living in Jeruſalem:</hi> or appointed and deſigned to life and
+preſervation: <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> Take it which way
+you will. There is a Regiſter and record which is made, God writes up the
+people; <hi>and the foundation of the Lord ſtandeth ſure, having this
+ſeal, THE LORD KNOWETH THEM THAT ARE HIS,</hi> 2 Tim. 2.19. That's that which
+is here <hi>im<g ref="char:EOLhyphen"/>ply'd.</hi>
+            </p>
+            <p n="2">
+               <note place="margin">2. That which is Expreſt.</note>The
+ſecond is that which is <hi>Expreſt.</hi> And that is <hi>this:</hi> That
+when God <hi>does</hi> write up the people, He ſhall count in <hi>this</hi>
+with it, <hi>That this man was born there.</hi> God takes a ſpecial notice of
+ſuch and ſuch <hi>particular per<g ref="char:EOLhyphen"/>ſons,</hi> which were born in <hi>ſuch
+and ſuch places;</hi> and how they are <hi>qualified.</hi> He does not only
+<hi>Cenſum agere,</hi> make a <hi>Taxation</hi> of the people (which I noted
+before) but he does alſo <hi>Cenſuram agere,</hi> ſet his mark of
+<hi>Re<g ref="char:EOLhyphen"/>membrance</hi> upon them, and gives his verdict and judge<g ref="char:EOLhyphen"/>ment of them.
+He takes notice not only of <hi>perſons,</hi> 
+               <pb n="57" facs="tcp:114971:31"/>but of
+<hi>conditions.</hi> Thus and thus <hi>Able;</hi> Thus and thus
+<hi>Uſefull;</hi> Thus and thus <hi>Serviceable;</hi> And he
+<hi>eſteems</hi> of his Church ſo much the better, as ſuch as
+<hi>theſe</hi> are <hi>Members</hi> of it, and <hi>born</hi> in it.</p>
+            <p>
+               <note place="margin">
+                  <hi>
+                     <g ref="char:V">Ʋ</g>ſe.</hi>
+               </note>This is much for the
+<hi>honour</hi> and <hi>comfort of the ſer<g ref="char:EOLhyphen"/>vants</hi> of God, and may ſerve
+as an incouragement to us in the ſervice of Him; That however <hi>men</hi>
+may eſteem of us, we ſhall be reckoned and eſteemed of by <hi>Him;</hi>
+which is more then if <hi>all the world</hi> beſides had us in eſtimation.
+The Lord, <hi>He viewes and looks ever the whole City:</hi> takes notice of
+<hi>every Company, Congrega<g ref="char:EOLhyphen"/>tion, Family, Perſon in it;</hi> and he pleaſes
+<hi>Himſelf in the thoughts</hi> of them, as they are any thing more
+<hi>ſer<g ref="char:EOLhyphen"/>viceable to Him: There's</hi> ſuch an one <hi>mourning and
+weeping</hi> in ſecret, for the <hi>publick abominations;</hi> Ile ſet my
+<hi>mark</hi> upon <hi>him.</hi> There's ſuch an one <hi>active and zea<g ref="char:EOLhyphen"/>lous
+for the truth</hi> and the cauſe of Religion; Ile ſet my ſeal upon
+<hi>him.</hi> There's ſuch an one full of <hi>bounty and liberality</hi> to
+my poor Saints; I know where to finde out <hi>him,</hi> as I have occaſion to
+make uſe of him: Look as ſome <hi>Prince</hi> or <hi>Magiſtrate,</hi>
+that has occaſion <hi>for the ſupplies of money,</hi> he knowes all the
+<hi>rich Men in the Ci<g ref="char:EOLhyphen"/>ty,</hi> and for a ſhift can ſingle them <hi>out one
+by one;</hi> there lives ſuch an one worth <hi>ſo many thouſands;</hi>
+and there lives another <hi>worth as many,</hi> and ſo of the reſt. Even
+ſo it is with <hi>God</hi> here as <hi>concerning his people:</hi> He does
+<hi>mark</hi> them, and ſet them out to himſelf, and makes ac<g ref="char:EOLhyphen"/>count of
+them; and reckons of his Church as ſo much the richer and better <hi>for</hi>
+them.</p>
+            <p>
+               <note place="margin">A double Ad<g ref="char:EOLhyphen"/>junct.</note>And he does it with a
+<hi>double</hi> adjunct or concomitan<g ref="char:EOLhyphen"/>cy which is here conſiderable in it:
+firſt, of Expectation <hi>from</hi> them. And ſecondly, of Reſolution
+<hi>for</hi> them. Of Expectation <hi>from</hi> them, <hi>This</hi> man was
+<hi>born</hi> there: <pb n="58" facs="tcp:114971:32"/>therefore I look for ſo much
+<hi>ſervice and duty</hi> at his hands. Of Reſolution <hi>for</hi> them,
+<hi>This man was born there;</hi> therefore accordingly Ile be the more
+<hi>tender</hi> and regardful <hi>of</hi> him.</p>
+            <p n="2">
+               <note place="margin">1. Expectation.</note>Firſt, of
+<hi>Expectation</hi> from them. The better any <hi>are,</hi> or <hi>may</hi>
+be; the more does God look for from them: according to their
+<hi>Abilities,</hi> and according to their op<g ref="char:EOLhyphen"/>portunities. And <hi>ſo
+here,</hi> That man which was <hi>born in Sion;</hi> he has had <hi>more
+Grace</hi> beſtowed upon him, whereby he might be <hi>inabled</hi> to Good;
+and he has had more <hi>Mercy</hi> ſhewn unto him, from whence he might be
+<hi>incouraged</hi> to Good; and therefore is ſo much the greater good
+expected to be done by him.</p>
+            <p n="1">
+               <note place="margin">2. Reſolution.</note>Secondly, There's
+here alſo conſiderable in this Ac<g ref="char:EOLhyphen"/>count betwixt God and his people; His
+Reſolution <hi>for</hi> them; and that ſingular Affection which he ſeems
+to bear unto them. The Lord ſhall count, when he writes up the people, that
+<hi>this man was born there, Selah;</hi> Therefore I muſt make another
+reckoning of him, then of ſome ordinary perſon: There are
+<hi>diſtinguiſhing Mercies</hi> and Priviledges, which God reſerves for
+his children and ſervants, which every one is not partaker of, and that upon
+<hi>this</hi> account; even <hi>becauſe</hi> they <hi>are</hi> his children:
+as in Mal. 3.17. There was this follow<g ref="char:EOLhyphen"/>ed upon the <hi>Book of
+Remembrance;</hi> And they ſhall be <hi>Mine,</hi> ſaith the <hi>Lord of
+Hoſts,</hi> in that Day, when I ſhall make up my <hi>Jewels:</hi> Mine, not
+only as to <hi>intereſt,</hi> as having <hi>relation to me,</hi> but mine
+alſo as to <hi>ſucceſſe,</hi> and as receiving <hi>protection from</hi>
+me; as it followes after<g ref="char:EOLhyphen"/>wards in the verſ. And I <hi>will ſpare them</hi>
+as a man <hi>ſpa<g ref="char:EOLhyphen"/>neth his own ſon that ſerveth him:</hi> God counts
+Himſelf in a manner <hi>concern'd</hi> to do ſomewhat <hi>more</hi> for his
+people, then for the ordinary rank and rout of the <pb n="59" facs="tcp:114971:32"/>world;
+for thoſe which are born in <hi>Sion,</hi> at leaſt in the
+<hi>Myſtical</hi> acception, which are regenerate and born again, above
+thoſe which are born in any other place beſides. And accordingly may
+thoſe which are <hi>ſo,</hi> expect it from him; He does not altogether
+<hi>neglect</hi> them: for he <hi>writes up the people;</hi> He does not
+<hi>forget</hi> them; for when he writes up <hi>the reſt</hi> of the people,
+he takes notice of <hi>them</hi> more <hi>eſpecially;</hi> nor he does not
+ſuffer <hi>others</hi> to forget them neither; but does <hi>regi<g ref="char:EOLhyphen"/>ſter them
+and put them upon record</hi> to all Genera<g ref="char:EOLhyphen"/>tions; and as he eſtabliſhes
+<hi>Sion it ſelf;</hi> ſo eſtabliſhes likewiſe the <hi>memorial</hi>
+of all ſuch as <hi>are born in it. The Lord will count when he writes up the
+people; That this Man was born there.</hi> That's the <hi>ſecond Branch</hi>
+of this <hi>ſecond General;</hi> to wit, the <hi>Celebration</hi> of the
+priviledge, on <hi>Gods</hi> part, by way of <hi>Record;</hi> and ſo I have
+done with the <hi>whole Text it ſelf.</hi>
+            </p>
+            <p>
+               <note place="margin">The Applica<g ref="char:EOLhyphen"/>tion of the Text to the
+occaſion.</note> BUt yet I have not done with <hi>You</hi> which are my
+<hi>proper Hearers</hi> this Day. I have a word or two <hi>farther</hi> to you,
+and ſo I have done; To you which were born within the <hi>limits</hi> of this
+<hi>honourable City.</hi> The bleſſed Apoſtle St. <hi>Paul</hi> wiſht
+<hi>himſelf</hi> ſometime to be <hi>Anathema,</hi>
+               <note place="margin">Rom
+9.3.</note> i. e. <hi>Accurſt, or ſeparate from Chriſt</hi> for his
+<hi>Countreymen,</hi> whom he cals his <hi>Brethren and kinſ<g ref="char:EOLhyphen"/>men according to
+the Fleſh.</hi> Indeed <hi>that</hi> was a very <hi>high ſtrain</hi> of
+affection; and ſuch as it is more then eve<g ref="char:EOLhyphen"/>ry one is <hi>able to reach,</hi>
+ſo perhaps more then every one is <hi>bound to perform.</hi> I will not
+therefore preſume to <hi>pro<g ref="char:EOLhyphen"/>miſe</hi> ſo much <hi>for my ſelf.</hi>
+But <hi>this</hi> I will be bold to ſay in his words in another place in the
+following chapt. <hi>Brethren, it is</hi> my <hi>hearts deſire, and prayer to
+God</hi>
+               <note place="margin">Rom. 10.1.</note> 
+               <pb n="60" facs="tcp:114971:33"/>
+               <hi>for</hi>
+LONDON, <hi>that they might be ſaved:</hi> and I ſhould count it a great
+favour from God to me, if I might let fall any thing at this time tending and
+conducing thereunto.</p>
+            <p>I muſt confeſs I may ſeem to be under a <hi>common
+diſad<g ref="char:EOLhyphen"/>vantage</hi> in this regard, as our bleſſed <hi>Saviour</hi> was
+before me, who complains He could do no great good amongſt his <hi>own
+people: (He came to his own, and his own recei<g ref="char:EOLhyphen"/>ved him not)</hi>
+               <note place="margin">Joh. 1.11.</note> and ſo laies down a <hi>General
+obſervation</hi> to this purpoſe. <hi>That a Prophet is not without honour,
+ſaving in his own Countrey, and in his Fathers Houſe.</hi>
+               <note place="margin">Mat. 13.57,58.</note> It is the great unhappineſſe oftentimes
+of <hi>us,</hi> which are <hi>Miniſters,</hi> to have <hi>leaſt
+acceptance</hi> there where we have <hi>moſt cauſe</hi> to <hi>expect</hi>
+it; and to have <hi>greateſt diſcou<g ref="char:EOLhyphen"/>ragement</hi> there, where we have
+<hi>leaſt cauſe</hi> to <hi>receive</hi> it. But <hi>you</hi> have taken
+this off from <hi>me</hi> at this preſent time (as I may ſay) by the
+<hi>contrary extreme,</hi> in your call and invitation to <hi>this work,</hi>
+eſpecially having ſo much <hi>better choice,</hi> as you elſewhere had
+amongſt ſo many of <hi>my Reverend Brethren.</hi> But then hereby as you
+have put me <hi>in hope</hi> of doing ſome good amongſt you, ſo you have
+likewiſe <hi>ingaged your ſelves</hi> to attend to what is
+<hi>ſpoken</hi> by me. I ſhall reduce it to <hi>two Heads,</hi> even the
+two parts of the Text, <hi>viz.</hi> The <hi>Priviledge,</hi> and
+<hi>Celebration</hi> of it.</p>
+            <p>Firſt, As to the <hi>Priviledge;</hi> that ye be carefull to
+look to <hi>this,</hi> and to ſee that you are intereſted in it, that is,
+<hi>born in Sion</hi> according to the ſenſe now explain'd. Not only
+<hi>Profeſſors and Proteſtants</hi> at <hi>large;</hi> but
+<hi>rege<g ref="char:EOLhyphen"/>nerate</hi> and true Beleevers, who have the <hi>ſeed of God
+remaining in you,</hi> and are made partakers of <hi>his ſancti<g ref="char:EOLhyphen"/>fying
+Spirit.</hi>
+            </p>
+            <p n="1">
+               <pb n="61" facs="tcp:114971:33"/>
+               <note place="margin">1. Real
+Chri<g ref="char:EOLhyphen"/>ſtians.</note>This is one thing, and the <hi>firſt</hi> which
+<hi>we</hi> here in this City have cauſe to be admoniſht of; To be ſure
+that we be <hi>reall</hi> Chriſtians,
+<gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Iſraelites <hi>indeed,</hi>
+Joh. 1.47. And <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Diſciples
+<hi>indeed,</hi> Joh. 8.31. That we be not <hi>ſpiritual Baſtards,</hi> but
+<hi>legitimate Children;</hi> That we be not <hi>ſpiritual Monsters,</hi> but
+in<g ref="char:EOLhyphen"/>tire and <hi>perfect Men;</hi> which have all the <hi>parts</hi> and
+dimenſions of the <hi>children of Zion</hi> in us. I can aſſure you there
+are abundance of <hi>counterfeits</hi> and falſe Births in the world; it will
+concern us to look to it that <hi>we</hi> be none of the <hi>number</hi> of
+them; that we be the <hi>true</hi> and ge<g ref="char:EOLhyphen"/>nuine <hi>off-ſpring of
+Chriſt,</hi> who have his <hi>Image</hi> and cha<g ref="char:EOLhyphen"/>racter upon us. There are
+many which go far in <hi>pro<g ref="char:EOLhyphen"/>feſsion</hi> and an <hi>outward form of
+godlineſſe,</hi> which they have got and ſcraped up to themſelves from
+<hi>education, and cuſtome, and imployment,</hi> who yet <hi>deny the
+power</hi> of it; and whoſe Hearts God has never yet toucht with any
+<hi>ſaving work</hi> upon them; who becauſe they live <hi>fairly,</hi> and
+civilly, and plauſibly, as to the <hi>view of the world,</hi> are therefore
+<hi>too good,</hi> as one would think, to go to <hi>Hell:</hi> and yet (beleeve
+it) not <hi>good enough</hi> to go to a <hi>better place.</hi>
+            </p>
+            <p n="2">
+               <note place="margin">2. Solid.</note>Secondly, We muſt be
+<hi>ſolid</hi> Chriſtians. Not only ſuch as have the <hi>truth</hi> and
+<hi>reality</hi> of Grace in us; but which have it in a <hi>ſubſtantial
+manner:</hi> there's the <hi>truth</hi> of Religion, and there's the
+<hi>ſtrength</hi> of it. As a <hi>childe</hi> may have <hi>all the parts</hi>
+of a <hi>Man,</hi> but they are but <hi>weak and feeble;</hi> and a <hi>grown
+Man</hi> may have all proportions in him, but yet be <hi>ſickly</hi> and
+infirm. 
+<note place="margin">1 Tim. 6.4.</note>Thus it is with many
+Chriſtians: as <hi>children</hi> toſt to and fro with eve<g ref="char:EOLhyphen"/>ry winde of
+doctrine, Epheſ. 4.14. And doting or <hi>ſick</hi> about queſtions,
+<gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as it is in the Text, 1 Tim.
+6.4. This is that which is obſervable in very <hi>many,</hi> 
+               <pb n="62" facs="tcp:114971:34"/>yea for <hi>ſome,</hi> it is <hi>all</hi> which is in
+them. There are a great many of people in the world, that the <hi>firſt
+newes</hi> we hear of them in <hi>Religion,</hi> is either in an
+<hi>Error,</hi> or in a <hi>Notion.</hi> Either in ſome corrupt and
+<hi>Heterodox</hi> opi<g ref="char:EOLhyphen"/>nion, orelſe in ſome <hi>empty and airy
+ſpeculation.</hi> Thoſe which never lookt after any <hi>goodneſſe</hi>
+all their <hi>life time,</hi> they think they are then forſooth become very
+eminent in it, when they appear in ſuch an <hi>habit</hi> as this. Some there
+are which fall into groſſe and palpable errors; and I muſt confeſs it
+is a very eaſie converſion from Ignorance to falſe Doctrine, and from no
+Religion to a bad one. Others there are that pleaſe themſelves in <hi>fine
+fancies and witty conceits;</hi> and if they get any of theſe by the end,
+then they applaud themſelves, and think that others ſhould do ſo too.
+This is our great miſtake, that we place Religion in many things where it
+<hi>is not,</hi> and neglect it where it <hi>is:</hi> and ſo on both hands
+deceive our ſelves.</p>
+            <p n="3">
+               <note place="margin">3. Spiritual.</note>Thirdly, We ſhould
+be <hi>ſpiritual</hi> Chriſtians, <hi>i. e.</hi> Chriſtians raiſed to
+an <hi>higher and more excellent frame</hi> and temper in Religion. Gal. 6.1.
+Ye which are <hi>ſpi<g ref="char:EOLhyphen"/>ritual.</hi> There's an emphaſis laid upon
+<hi>that;</hi> it was that which <hi>Paul</hi> wanted in his
+<hi>Corinthians,</hi> 1 Cor. 3.1. I could not ſpeak unto you as unto
+<hi>ſpiritual,</hi> but as unto <hi>carnal,</hi> even as <hi>unto babes in
+CHRIST.</hi> Where <hi>carnal</hi> is not to be taken
+<hi>privativè,</hi> for ſuch as were <hi>abſolutely
+unregenerate,</hi> and in the <hi>ſtate of Nature;</hi> as Jude verſ. 19.
+<hi>Senſual, not having the ſpirit</hi> (for ſuch theſe
+<hi>Corinthians</hi> were not) but <hi>gradualiter:</hi> for ſuch as were in
+a <hi>lower way</hi> of Religion, as the words afterwards ſignifie, <hi>Babes
+in Christ,</hi> and <hi>walking according to Man.</hi> It was not a
+<hi>carnality</hi> of <hi>condition,</hi> but of <hi>converſation:</hi> An
+<hi>un-ſpiritual</hi> Chriſtian is <hi>next</hi> to one that is
+<hi>abſo<g ref="char:EOLhyphen"/>lutely <pb n="63" facs="tcp:114971:34"/>carnal;</hi> and by affinity has his
+<hi>name</hi> put upon him: which <hi>we</hi> ſhould therefore be <hi>mindful
+of.</hi>
+            </p>
+            <p>
+               <note place="margin">Spirituality wherein it
+conſiſts.</note>This <hi>ſpirituality</hi> of Religion whereof we now
+ſpeak, it conſiſts in a <hi>more cloſe and exact</hi> walking with God;
+and and <hi>un-interrupted</hi> fellowſhip and communion with Him; In a
+<hi>daily obſervation</hi> of him in all his dealings with us; in
+<hi>ſelf-denial,</hi> and <hi>cautious reſtraint</hi> of ſome things
+which are <hi>abſolutely</hi> lawful, though in ſuch
+<hi>cir<g ref="char:EOLhyphen"/>cumstances</hi> not ſo convenient. From whence there are likewiſe
+<hi>gracious Returnes</hi> from God upon the ſoul again; In exciting to
+<hi>duty;</hi> in aſſiſting <hi>in</hi> it; in the <hi>aſſurance of
+favour</hi> and acceptance in the Bloud of <hi>Christ;</hi> The
+<hi>witneſſe and ſeal</hi> of the <hi>Spirit;</hi> the Hints of
+<hi>Providence;</hi> the Anſwer of <hi>Prayers;</hi> the <hi>hidden
+Manna;</hi> the <hi>white Stone;</hi> the <hi>New Name,</hi> as it is cal'd
+Rev. 2.17. Such things as <hi>theſe</hi> there are in <hi>Religion,</hi> and
+that altogether different from <hi>fancy,</hi> and <hi>conceit,</hi> and
+<hi>imagination;</hi> ſuch things as have an undoubted <hi>certainty</hi> and
+reality in them: and it will be both our <hi>wiſdome</hi> and happineſſe
+to be acquainted with them.</p>
+            <p>
+               <hi>Apollos</hi> was an <hi>Eloquent</hi> man (and
+queſtionleſſe a <hi>good</hi> man too) and <hi>mighty in the
+Scriptures;</hi> But yet <hi>Aquila</hi> and <hi>Priſcilla</hi> exercis'd and
+<hi>experienc'd</hi> Chriſti<g ref="char:EOLhyphen"/>ans took him unto them, and expounded to him,
+the way of God more <hi>perfectly.</hi> Act. 18.26.
+<gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. They did not expound unto him
+the way of God <hi>ſimply.</hi> He was inſtructed in that <hi>already,</hi>
+as it is ſaid in the verſe before: but they revealed to him ſome
+<hi>practical ſecrets,</hi> and Myſteries belonging to this way, as to the
+<hi>Doctrine of Christ,</hi> which as yet he was not <hi>acquainted</hi>
+withall; being that which <hi>many others</hi> beſides may ſometimes have
+ſome need of, who <hi>for the main</hi> have a <hi>work of Grace</hi> upon
+their hearts. <pb n="64" facs="tcp:114971:35"/>There are the <hi>Criticiſms</hi> in
+Chriſtianity, beſides the <hi>plain Rules;</hi> and as there are the
+<hi>Depths of Satan,</hi> ſo likewiſe the <hi>Myſteries of Chriſt;</hi>
+and theſe learned by <hi>accurate</hi> Chriſtians. There's
+<hi>Spirituality</hi> added to <hi>Sincerity,</hi> which is like
+<hi>Beauty</hi> added to <hi>Health.</hi>
+            </p>
+            <p>
+               <note place="margin">Studying of Chriſt.</note>For the furthering
+of this in us, it will concern us ſo much the more to ſtudy the Truths of
+<hi>Chriſt</hi> which begin very much now a daies to <hi>diſ<g ref="char:EOLhyphen"/>reliſh</hi>
+in the world. We have <hi>Christianos ſine Chriſto;</hi> men that would go
+for Chriſtians, and yet have but very little of the <hi>Doctrine or
+Spirit</hi> of Chriſt in them; or if ſome <hi>rude and general</hi> notions
+of it, yet which they do but very little uſe, or improve; ſo as to frame
+their hearts accordingly. Theſe are
+<gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>Huckſters of Chriſt,
+rather then true Chiſtians,</hi> as <hi>Ignatius</hi> cals them: and they do
+<hi>fruſtrate</hi> and deprive themſelves of the <hi>greateſt comforts
+and be<g ref="char:EOLhyphen"/>nefits</hi> that are by him.<note place="margin">Joh. 6.27.</note> For it
+is <hi>He whom God the Fa<g ref="char:EOLhyphen"/>ther hath ſealed,</hi> as the conveyance of all
+true happi<g ref="char:EOLhyphen"/>neſſe and bleſſedneſſe to us. In <hi>Him</hi> we are
+<hi>Elected;</hi>
+               <note place="margin">Epheſ. 1.4.</note> In <hi>Him</hi> we are
+<hi>Redeemed;</hi>
+               <note place="margin">Col. 1.14.</note> In <hi>Him</hi> we are
+<hi>Juſtified;</hi>
+               <note place="margin">Rom. 3.24.</note> In <hi>Him</hi> we
+are <hi>Sanctified;</hi>
+               <note place="margin">Joh. 17.19.</note> In <hi>Him</hi>
+we are <hi>Saved.</hi>
+               <note place="margin">Rom. 5.10.</note> He hath
+<hi>raiſed</hi> us up together, and made <hi>us ſit together with Him.</hi>
+Yea, <hi>He hath bleſt us with all ſpiritual Bleſsings in heavenly places
+in CHRIST.</hi>
+               <note place="margin">Epheſ. 1.3.</note> Gods children through
+Faith in Him.<note place="margin">Gal. 3.26.</note>
+            </p>
+            <p>This is the <hi>great comfort</hi> of Beleevers: <hi>That to us a
+Childe is Born, to us a Son is Given,</hi> Eſai. 9.6. <hi>That this man was
+born there;</hi> to ſpeak in the words of the <hi>Text.</hi> If it were not
+for, <hi>this</hi> we were all but in a <hi>ſad condition.</hi> There are
+many which talk of Gods <hi>Phi<g ref="char:EOLhyphen"/>lanthropy</hi> and good <hi>Nature,</hi> and
+love to mankinde; yea, <hi>that</hi> was in the <hi>giving</hi> of
+<hi>Chriſt</hi> at <hi>firſt;</hi> but now after that He is once
+<hi>given,</hi> there's no love to us <hi>out of Him,</hi> 
+               <pb n="65" facs="tcp:114971:35"/>which we can reſt or ſecure our ſelves in: and the more we
+<hi>bottome</hi> upon this Truth, the better <hi>Chriſtians</hi> ſhall we
+be, and the more <hi>ſpiritual</hi> in Chriſtianity.</p>
+            <p>
+               <note place="margin">Jam. 1.18.</note>
+               <note place="margin">Rom.
+4.11.</note>
+               <note place="margin">Improvement of Word and Sacraments.</note>We
+ſhould again further improve the <hi>Ordinances</hi> and means of Grace,
+which are vouchſafed unto us. The <hi>Word</hi> and the <hi>Sacraments.</hi>
+The <hi>Word</hi> for the <hi>begetting</hi> of us again. And the
+<hi>Sacraments</hi> as the <hi>Seals</hi> of Grace to us. And (becauſe I have
+named the <hi>Sacraments</hi>) that <hi>Sa<g ref="char:EOLhyphen"/>crament</hi> which is moſt
+<hi>proper</hi> to this purpoſe; 
+<note place="margin">Eſpecially of <hi>Baptiſm.</hi>
+               </note>the
+Sa<g ref="char:EOLhyphen"/>crament of <hi>Baptiſm,</hi> which is the Pledge of our <hi>En<g ref="char:EOLhyphen"/>trance</hi>
+and Admiſſion into the <hi>Church of Chriſt,</hi> the <hi>Seal of our new
+Birth</hi> and Regeneration, as <hi>we are born in Sion.</hi> Let us bring
+<hi>our children</hi> to it, and count it a <hi>great priviledge,</hi> that
+they may be made partakers of it, from whence they have a <hi>right</hi> and
+intereſt in all the <hi>prayers</hi> which are at any time made for the
+<hi>Church</hi> of God, as themſelves belonging unto it.</p>
+            <p>Beloved, We muſt know that God <hi>obſerves</hi> what
+<hi>re<g ref="char:EOLhyphen"/>ſpect</hi> we give to <hi>his Ordinance,</hi> and what we do <hi>not:
+He</hi> keeps a <hi>Regiſter</hi> of <hi>Chriſtenings,</hi> as well as of
+<hi>Births;</hi> not only of who are <hi>Born</hi> here, but who are
+<hi>Baptized.</hi> Yea, and in what <hi>faſhion</hi> and <hi>manner</hi> too,
+and with what <hi>regard</hi> to his own <hi>Inſtitution. Slubber'd</hi> and
+ſlighted <hi>Baptiſm</hi> is little better then <hi>none at all;</hi> and
+in ſome re<g ref="char:EOLhyphen"/>ſpects <hi>worſe.</hi> God <hi>abhors</hi> it, and will one
+day call us to a <hi>reckoning</hi> for it, and our profanations in it; making
+it but a matter of <hi>cuſtome,</hi> and formality, and comple<g ref="char:EOLhyphen"/>ment, and
+bravery, and the like; <hi>beginning</hi> with <hi>Reli<g ref="char:EOLhyphen"/>gion,</hi> as we mean
+to <hi>hold out</hi> in it, and our <hi>poſterity</hi> af<g ref="char:EOLhyphen"/>ter us.</p>
+            <p>As for the <hi>other Sacrament,</hi> we ſeem to be now and then
+ſenſible of ſome reſpect due to <hi>that,</hi> and we have cauſe to
+<hi>be</hi> ſo. Now is not the <hi>one</hi> as great as <pb n="66" facs="tcp:114971:36"/>the <hi>other</hi> in its own <hi>nature?</hi> Do they not
+<hi>come</hi> from the ſame <hi>Author?</hi> Do they not <hi>refer</hi> to
+the ſame <hi>end?</hi> Do they not <hi>ſeal</hi> the ſame
+<hi>Covenant,</hi> and Graces, and Be<g ref="char:EOLhyphen"/>nefits, and Priviledges, for
+<hi>ſubſtance</hi> both of them the ſame, though different in
+<hi>modification?</hi> I beſeech ye think <hi>ſeriouſly</hi> of theſe
+things; I could not but give a <hi>touch</hi> of them, as lying in my way, and
+as pertinent to this preſent occaſion. And thus much may be ſpoken to you
+in reference to the <hi>Priviledge it ſelf.</hi>
+            </p>
+            <p>
+               <note place="margin">Care of our Meeting.</note>Now a <hi>word</hi>
+to you further in order to the <hi>celebra<g ref="char:EOLhyphen"/>tion</hi> of it; and ſo in
+reference to your <hi>Meeting</hi> and aſ<g ref="char:EOLhyphen"/>ſembling together at this time:
+That we be careful how we order this Matter. For (beleeve it) this will be
+<hi>ſaid,</hi> and <hi>recorded</hi> too, as well as <hi>the other.</hi>
+Therefore it concerns <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to look
+to it; both firſt to the <hi>principles</hi> that <hi>act</hi> us, and that
+carry us to it. And ſecondly, to the Thing it ſelf, and the Behaviour of
+our ſelves in it.</p>
+            <p n="1">
+               <note place="margin">1. For the Principles.</note>Firſt, For
+the <hi>principles</hi> that act us, and the <hi>grounds</hi> that we are
+carryed upon; Theſe muſt <hi>mainly</hi> be looked at by us. 
+<note place="margin">1. The End.</note>As the <hi>form</hi> is in
+<hi>Naturals,</hi> ſo is the <hi>end</hi> like<g ref="char:EOLhyphen"/>wiſe in <hi>Morals,</hi>
+which does <hi>eſſentiate</hi> and ſpecificate the <hi>Action;</hi> now
+therefore we muſt have a care of <hi>this,</hi> that it be <hi>right</hi> in
+us; not for <hi>meer credit,</hi> and vain-glory, and <hi>pomp,</hi> and
+applauſe; in a <hi>frollick</hi> and a bravado, to be <hi>talkt</hi> of, as I
+in part hinted before. For (I muſt tell you) we are very <hi>ſubject</hi>
+oftentimes to ſuch things as theſe. <hi>An Humor</hi> here in the
+<hi>City</hi> will go further with us many times, then a <hi>better
+principle;</hi> and we'l do that upon <hi>fancy</hi> which we'l hardly do upon
+<hi>duty,</hi> or a more <hi>rational</hi> conſideration. Therefore let us
+take heed of it; ſee we do it for <hi>Gods glory,</hi> the expreſſion of
+our own <hi>thankfulneſs,</hi> mutual <hi>love,</hi> and, <hi>reſpect,</hi>
+&amp;c.</p>
+            <p>
+               <note place="margin">The Manner.</note>And for the <hi>Manner,</hi>
+look to <hi>that</hi> alſo: That we carry <pb n="67" facs="tcp:114971:36"/>on the whole
+Buſineſſe with <hi>prudence,</hi> and diſcretion, and meekneſſe,
+and <hi>Chriſtian affection.</hi> Take heed we make not <hi>that</hi> to be a
+Matter of <hi>diviſion</hi> which is a Project of <hi>union.</hi> It is that
+which our corrupt Natures and Satans malice joyning with them expoſes us to;
+if we be not the more watchful over our ſelves. As we ſee in that <hi>great
+Feaſt</hi> of all, the Feaſt of the <hi>Lords Supper,</hi> that ſpiritual
+and Evangelical entertainment; It was intended for a <hi>feaſt of love</hi>
+in its <hi>firſt Inſtitution.</hi> And yet what has caus'd more diviſion
+and breaches of love then that has done as to the managing of it? A very
+<hi>Meribah, and Apple of contention;</hi> and ſo re<g ref="char:EOLhyphen"/>mains ſtill to this
+day. It will likewiſe be ſo with us in ſuch <hi>feaſts of love</hi> as
+theſe are, if we look not better to it. For the <hi>Devil</hi> is not only
+contented to <hi>diſap<g ref="char:EOLhyphen"/>point</hi> us of our <hi>principal End,</hi>
+unleſſe he withall carry us to an end quite <hi>different from it,</hi>
+yea, <hi>oppoſite</hi> and con<g ref="char:EOLhyphen"/>trary <hi>to it.</hi>
+            </p>
+            <p n="2">
+               <note place="margin">2. For the Thing it
+ſelf.</note>Secondly, As for the <hi>Thing it ſelf;</hi> we ſhould be
+careful to expreſſe the <hi>forenamed Affections</hi> in ſome ſutable
+<hi>matter;</hi> There are two <hi>great Concernments</hi> in the world,
+Godlineſſe, and Righteouſneſſe; <hi>piety</hi> in re<g ref="char:EOLhyphen"/>ference to
+<hi>God,</hi> and <hi>charity</hi> in reference to Men. And theſe are the
+<hi>two Channels</hi> in which our <hi>zeal</hi> muſt con<g ref="char:EOLhyphen"/>vey it ſelf.</p>
+            <p>For <hi>particulars,</hi> I leave them to <hi>your ſelves</hi>
+for the <hi>determination</hi> of them, as you ſhall judge moſt
+<hi>meet</hi> and convenient: ye cannot want <hi>occaſions;</hi> nay ye have
+<hi>crowds</hi> and throngs of them, only I beſeech you take heed, that
+<hi>one</hi> does not crowd out <hi>another;</hi> that whiles ye are uncertain
+<hi>what</hi> to do, ye do at laſt <hi>nothing at all;</hi> which is commonly
+the end of ſuch uncertainties as theſe are. And ſo come to a
+<hi>Parturiunt Montes &amp;c.</hi> in your Birth-ſolemnity.</p>
+            <p>
+               <pb n="68" facs="tcp:114971:37"/>As for the <hi>perſons intruſted,</hi> ye
+ſhall not need to doubt of <hi>them,</hi> being men of ſo much
+<hi>faithfulneſſe</hi> and <hi>integrity,</hi> and known
+<hi>ſufficiency</hi> in all particulars, as that <hi>Envy</hi> it ſelf
+cannot cavil or except againſt them. So that here is nothing now deſirable
+of you, but a cloſing with the happy opportunity which is preſented to
+you.</p>
+            <p>To make us more <hi>intent,</hi> let us conſider; That
+un<g ref="char:EOLhyphen"/>leſſe we do ſomewhat which is <hi>ſingular</hi> in this our meeting,
+we ſhall not be able to <hi>approve</hi> our ſelves in it; <hi>there
+being</hi> (otherwiſe) <hi>no cauſe whereby we may give an account of this
+concourſe:</hi> as the <hi>Town-clerk</hi> ſaid at <hi>Epheſus,</hi> Act.
+19.40. It will not only be <hi>un<g ref="char:EOLhyphen"/>acceptable</hi> to <hi>God,</hi> but
+<hi>un-accountable</hi> to <hi>Men,</hi> and we ſhall <hi>ſuffer in our
+reputations</hi> for it. As for <hi>thoſe of other</hi> Countreys which are
+forain and more <hi>remote,</hi> there may be ſomewhat <hi>ſaid</hi> for
+the Natives of <hi>them,</hi> to meet one with another, upon ſome
+<hi>other</hi> conſidera<g ref="char:EOLhyphen"/>tions, which cannot be ſaid for <hi>you;</hi> But
+for <hi>Londoners</hi> to meet in <hi>London!</hi> except you have very
+<hi>good Ends</hi> and aimes for it <hi>indeed</hi> (as I hope you
+<hi>have</hi>) and do ſome ſpecial good in your meeting (as I deſire you
+<hi>may</hi>) it will not only be <hi>fruitleſſe,</hi> but
+<hi>ridiculous,</hi> and carry a great deal of <hi>ſcorn and ignominy</hi>
+with it.</p>
+            <p>Beſides; That ye have raiſed <hi>expectation</hi> by ſo much
+<hi>mention</hi> of it, and preparation <hi>for</hi> it, and talk and
+diſcourſe of it <hi>aforehand,</hi> as ſome of you <hi>have</hi> in many
+mens ears; theſe are arguments and ingage<g ref="char:EOLhyphen"/>ments to you, to conſider what
+you do.</p>
+            <p>Adde to this <hi>laſt</hi> of all; that it is the
+<hi>firſt</hi> of all in this <hi>kinde:</hi> This <hi>place</hi> in which we
+now are (as <hi>old</hi> as it is) I beleeve never held ſuch an Aſſembly
+as this is, upon this <hi>occaſion;</hi> which ſhould be the more effectual
+<pb n="69" facs="tcp:114971:37"/>with us to improve it to the better purpoſe. We uſe to
+ſay, that <hi>Primum in unoquo<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Genere eſt perfectiſ<g ref="char:EOLhyphen"/>ſimum, &amp;
+exemplar reliquorum:</hi> The <hi>firſt</hi> in every kinde is the
+<hi>perfecteſt</hi> and a pattern to all <hi>the reſt.</hi> Thus ſhould
+this of your meeting be as near as ye can make it, that ſo others that follow
+you may take aim and ex<g ref="char:EOLhyphen"/>ample from you; and writing after your copy may more
+fairly write themſelves, in ſo <hi>full and large</hi> a cha<g ref="char:EOLhyphen"/>racter, as may
+<hi>be known and read of all men.</hi>
+            </p>
+            <p>Thus, as we ſhall have comfort in our <hi>Birth</hi> and
+Nativity it ſelf, ſo we ſhall have comfort and <hi>joy</hi> like<g ref="char:EOLhyphen"/>wiſe
+in the <hi>Memorials</hi> and Celebrations of it; And as for the
+<hi>priviledge</hi> it ſelf; <hi>This man was born there;</hi> ſo of LONDON
+<hi>it ſhall be ſaid,</hi> THIS and THAT <hi>Man was born in Her,</hi> and
+the HIGHEST HIM<g ref="char:EOLhyphen"/>SELF <hi>ſhall eſtabliſh her: The LORD ſhall count when
+he writes up the people;</hi> That THIS MAN WAS BORN THERE, <hi>Selah.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:114971:38"/>
+            <head>A Catalogue of ſome Books printed for and ſold by <hi>John
+Clark</hi> at the Entrance into <hi>Mercer<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>-Chappel</hi> at the lower end of
+<hi>Cheapſide.</hi>
+            </head>
+            <list>
+               <item>THe Works of that famous Chirugeon <hi>Ambroſe Parey,</hi>
+whereunto are added large additions with figures out of <hi>Adrianus Spigelius.
+Fol.</hi>
+               </item>
+               <item>The deſcription of the body of man, together with the
+controverſies and figures thereto belonging; Collected out of all the beſt
+Authors of Anatomy: by <hi>Helkiah Crook,</hi> Dr. in Phyſick.
+<hi>Fol.</hi>
+               </item>
+               <item>The Hiſtory of the World, the Second part, in Six Books;
+being a continuation of the famous Hiſtory of Sir <hi>Walter Raleigh,</hi>
+begining where he left and continued to the year 1640. With a large Chronology
+of thoſe times: by <hi>Alex. Roſs.</hi> The true Copy whereof is
+diſtinguiſhed by the Authors own picture fixed in the frontiſpiece, by
+his own order, from any other however coloured with hawks and hounds in their
+title page, or lying pretences in other places. <hi>Fol.</hi>
+               </item>
+               <item>Antient Funerall Monuments: compoſed by the Travels and
+ſtudy of <hi>John Weaver. Fol.</hi>
+               </item>
+               <item>The Countrey Juſtice inlarged with many Preſidents and
+Reſolutions of the Queries contained in the former Impreſ<g ref="char:EOLhyphen"/>ſions by
+<hi>Michael Dalton.</hi> Whereunto is added by way of Appendix under their
+proper heads all ſuch Acts and Ordi<g ref="char:EOLhyphen"/>ances neceſſary to be know and put in
+execution by the Juſtices of the Peace, made and publiſhed before the year
+1655. <hi>Fol.</hi>
+               </item>
+               <item>Prototypes, or the Primary Preſidents out of the Book of
+<hi>Geneſis;</hi> the good and bad things they did and had practi<g ref="char:EOLhyphen"/>cally
+applyed to our information and reformation: by <hi>Wil<g ref="char:EOLhyphen"/>liam Whately</hi> late
+Paſtor of <hi>Banbury. Fol.</hi>
+               </item>
+               <item>Dr. <hi>Sibbs</hi> upon the 4, 5, 6. Chap. of the
+<hi>Canticles.</hi> 4.</item>
+               <item>The Works of that famous Phyſitian, Dr. <hi>Alexander
+Read.</hi>
+               </item>
+               <item>The Harmony, Chronicle, and Order of the old Teſtament;
+together with the Harmony of the four Evangeliſts; by Dr. <hi>Lightfoot</hi>
+4.</item>
+               <item>The Wo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es of that Reverend, Judicious and
+Learned Divine, Mr. <hi>Joſeph Me<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>de</hi> late fellow of Chriſts Colledge in <hi>Ghambridge, Two
+Vol. in</hi> 4.</item>
+               <item>
+                  <pb facs="tcp:114971:38"/>29 Lectures of the Church; very neceſſary
+for the conſo<g ref="char:EOLhyphen"/>lation and ſupport of Gods Church, eſpecially in theſe
+times: by that learned and faithfull Peacher Mr. <hi>John Randall.</hi>
+4.</item>
+               <item>Parthenia, or, the Maidenhead of the firſt Muſick that
+ever was invented for the Virginals: by <hi>Will. Bird,</hi> Dr. <hi>John
+Bull,</hi> and <hi>Orlando Gibbons</hi> Gentlemen of his Majeſties Chappell.
+<hi>Fol.</hi>
+               </item>
+               <item>The Engliſh Guſman. 4.</item>
+               <item>The Preſumptuous mans Mirrour, a Watchbell to rouze up a
+ſecure ſinner out of his ſecurity. 12.</item>
+               <item>The Change or the blind eye opened; a double diſcourſe on
+Epheſ. 5.8. by <hi>Tho. Du Gard.</hi> 12.</item>
+               <item>The Saints Priviledge: in 12. by Dr. <hi>Sibbs.</hi>
+               </item>
+               <item>Mr. <hi>Hookers</hi> farewell Sermon. 4.</item>
+               <item>Mr. <hi>Barnes</hi> needfull helpes. 4.</item>
+               <item>— Wiſe mans forecaſt in evill times. 4.</item>
+               <item>
+                  <hi>Janua Linguarun</hi> 14 Centuries; to which is newly
+annexed, <hi>Nomenclatura brevis Anglo-Latino Graeca:</hi> by <hi>Fr. Gr.</hi>
+large 8.</item>
+               <item>
+                  <hi>Janua Linguae Latinae;</hi> The gate of the Latine tongue
+un<g ref="char:EOLhyphen"/>locked, exhibiting in a naturall order the ſtructure of things and of the
+Latine tongue, according to the rules of the neweſt method: by
+<hi>Comenius.</hi> With an Etymological Index gathered out of the <hi>Januall,
+Lexicon, Varro, Iſidore, Martinus</hi> and other Claſſicall Authors, and
+Alphabetically diſpoſed: by <hi>William Du Gard.</hi> 8.</item>
+               <item>
+                  <hi>Arcana Microcoſmi,</hi> or, The hid ſecrets of mans
+body diſ<g ref="char:EOLhyphen"/>covered. Alſo the ſtrange and marvellous diſeaſes,
+ſymptomes and accidents: by <hi>Alexander Roſs.</hi> 8.</item>
+               <item>
+                  <hi>Colloquia Plautina viginti opera Alexandri
+Roſſaei.</hi> 8.</item>
+               <item>Mr. <hi>Whatelys</hi> oyl of gladneſs or comfort for
+dejected finners.</item>
+               <item>— His Poor mans Advocate. 12.</item>
+               <item>A Teſtament of a large Roman print, with reading and
+ſinging Pſalmes. 8.</item>
+               <item>The fulneſſe and freeneſſe of Gods grace in Chriſt
+declared in a uniforme body of Divinity: in two parts: by Mr.
+<hi>Duke.</hi>
+               </item>
+               <item>Mr. <hi>Primroſe</hi> Sermons in 4.</item>
+               <item>The Chriſtians pattern, or the imitation of Chriſt.
+24.</item>
+               <item>The Pillar and Pattern of <hi>Englands</hi> deliverances,
+preſented in a Sermon at <hi>Pauls, Novemb.</hi> 5. 1654 by Dr.
+<hi>Horton.</hi>
+               </item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
